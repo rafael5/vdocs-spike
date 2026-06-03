@@ -1,0 +1,2968 @@
+templates:
+- template_id: DIBR:bffd790e
+  doc_type: DIBR
+  evidence_docs: 120
+  sections:
+  - section_id: purpose
+    title: Purpose
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 94
+  - section_id: dependencies
+    title: Dependencies
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 88
+  - section_id: constraints
+    title: Constraints
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 89
+  - section_id: timeline
+    title: Timeline
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 85
+  - section_id: site-readiness-assessment
+    title: Site Readiness Assessment
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 86
+  - section_id: deployment-topology-targeted-architecture
+    title: Deployment Topology (Targeted Architecture)
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 84
+  - section_id: site-information-locations-deployment-recipients
+    title: Site Information (Locations, Deployment Recipients)
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 72
+  - section_id: site-preparation
+    title: Site Preparation
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 81
+  - section_id: resources
+    title: Resources
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 84
+  - section_id: facility-specifics
+    title: Facility Specifics
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 61
+  - section_id: hardware
+    title: Hardware
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 80
+  - section_id: software
+    title: Software
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 88
+  - section_id: communications
+    title: Communications
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 84
+  - section_id: pre-installation-and-system-requirements
+    title: Pre-Installation and System Requirements
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 79
+  - section_id: platform-installation-and-preparation
+    title: Platform Installation and Preparation
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 94
+  - section_id: download-and-extract-files
+    title: Download and Extract Files
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 84
+  - section_id: database-creation
+    title: Database Creation
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 82
+  - section_id: installation-scripts
+    title: Installation Scripts
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 90
+  - section_id: cron-scripts
+    title: Cron Scripts
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 89
+  - section_id: access-requirements-and-skills-needed-for-the-installation
+    title: Access Requirements and Skills Needed for the Installation
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 85
+  - section_id: installation-procedure
+    title: Installation Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 74
+  - section_id: installation-verification-procedure
+    title: Installation Verification Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 77
+  - section_id: system-configuration
+    title: System Configuration
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 83
+  - section_id: database-tuning
+    title: Database Tuning
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 82
+  - section_id: back-out-strategy
+    title: Back-Out Strategy
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 86
+  - section_id: back-out-considerations
+    title: Back-Out Considerations
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 83
+  - section_id: load-testing
+    title: Load Testing
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 88
+  - section_id: user-acceptance-testing
+    title: User Acceptance Testing
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 81
+  - section_id: back-out-criteria
+    title: Back-Out Criteria
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 86
+  - section_id: back-out-risks
+    title: Back-Out Risks
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 88
+  - section_id: authority-for-back-out
+    title: Authority for Back-Out
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 88
+  - section_id: back-out-procedure-1
+    title: Back-Out Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 81
+  - section_id: rollback-considerations
+    title: Rollback Considerations
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 86
+  - section_id: back-out-verification-procedure
+    title: Back-Out Verification Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 80
+  - section_id: rollback-criteria
+    title: Rollback Criteria
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 87
+  - section_id: rollback-risks
+    title: Rollback Risks
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 87
+  - section_id: authority-for-rollback
+    title: Authority for Rollback
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 87
+  - section_id: rollback-procedure-1
+    title: Rollback Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 80
+  - section_id: rollback-verification-procedure
+    title: Rollback Verification Procedure
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 71
+- template_id: RN:99af6ca2
+  doc_type: RN
+  evidence_docs: 83
+  sections:
+  - section_id: purpose
+    title: Purpose
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 23
+  - section_id: required-patches
+    title: Required Patches
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 18
+- template_id: TM:6a0e39ae
+  doc_type: TM
+  evidence_docs: 42
+  sections:
+  - section_id: templates
+    title: Templates
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 9
+  - section_id: xindex
+    title: XINDEX
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 9
+  - section_id: file-security
+    title: File Security
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 13
+  - section_id: electronic-signatures
+    title: Electronic Signatures
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 10
+  - section_id: security-keys
+    title: Security Keys
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 12
+- template_id: UM:a9e559da
+  doc_type: UM
+  evidence_docs: 25
+  sections:
+  - section_id: recommended-users
+    title: Recommended Users
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 5
+  - section_id: related-manuals
+    title: Related Manuals
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 6
+- template_id: UG:33315666
+  doc_type: UG
+  evidence_docs: 14
+  sections:
+  - section_id: revision-history
+    title: Revision History
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: purpose
+    title: Purpose
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 5
+  - section_id: assumptions
+    title: Assumptions
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: disclaimers
+    title: Disclaimers
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: coordination
+    title: Coordination
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: documentation-conventions
+    title: Documentation Conventions
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: references-and-resources
+    title: References and Resources
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: national-service-desk-and-organizational-contacts
+    title: National Service Desk and Organizational Contacts
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: system-configuration
+    title: System Configuration
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: data-flows
+    title: Data Flows
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: user-access-levels
+    title: User Access Levels
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: continuity-of-operation
+    title: Continuity of Operation
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: logging-on
+    title: Logging On
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: system-menu
+    title: System Menu
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: changing-user-id-and-password
+    title: Changing User ID and Password
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: exit-system
+    title: Exit System
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 4
+  - section_id: caveats-and-exceptions
+    title: Caveats and Exceptions
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: special-instructions-for-error-correction
+    title: Special Instructions for Error Correction
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+- template_id: DG:38de0b54
+  doc_type: DG
+  evidence_docs: 12
+  sections:
+  - section_id: about-this-guide
+    title: About this Guide
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: about-j2ee-connectors
+    title: About J2EE Connectors
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: public-vistalink-apis-documentation
+    title: Public VistALink APIs Documentation
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: sample-applications-for-j2ee-server
+    title: Sample Applications for J2EE Server
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: j2ee-development
+    title: J2EE Development
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: ide
+    title: IDE
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: j2ee-runtime
+    title: J2EE Runtime
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: j2se-development
+    title: J2SE Development
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: ide-1
+    title: IDE
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: j2se-runtime
+    title: J2SE Runtime
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: system-locator-institution-connector-mapping
+    title: 'System Locator: Institution-Connector Mapping'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: multidivision-aware-application-code-connectionspec-credentials
+    title: 'Multidivision-Aware Application Code: ConnectionSpec Credentials'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: example
+    title: Example
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: request-cycle
+    title: Request Cycle
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: retrieving-the-connection-factory
+    title: Retrieving the Connection Factory
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: instantiating-a-connection-spec-for-re-authentication
+    title: Instantiating a Connection Spec for Re-authentication
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: getting-a-connection-connection-spec
+    title: Getting a Connection (Connection Spec)
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: executing-a-request
+    title: Executing a Request
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: closing-the-connection
+    title: Closing the Connection
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: connectivity-failures-and-retry-strategies
+    title: Connectivity Failures and Retry Strategies
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: more-about-re-authentication
+    title: More about Re-authentication
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: overview
+    title: Overview
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 5
+  - section_id: connection-specification-classes
+    title: Connection Specification Classes
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: institutiondivision-rules-for-re-authentication
+    title: Institution/Division Rules for Re-authentication
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: application-proxy-user
+    title: Application Proxy User
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: timeouts
+    title: Timeouts
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: socket-level-forced-timeout
+    title: Socket-Level Forced Timeout
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: graceful-request-level-timeout
+    title: Graceful (Request-Level) Timeout
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: institution-mapping
+    title: Institution Mapping
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: how-to-configure-mappings
+    title: How to Configure Mappings
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: how-to-view-the-currently-loaded-mappings
+    title: How to View the Currently Loaded Mappings
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: retrieving-mappings-for-applications
+    title: Retrieving Mappings for Applications
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: subdivisions
+    title: Subdivisions
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalink-java-api-reference
+    title: VistALink Java API Reference
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: remote-procedure-calls
+    title: Remote Procedure Calls
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: rpc-security-b-type-option
+    title: RPC Security (“B”-Type Option)
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: rpcs-for-use-by-application-proxy-users
+    title: RPCs for Use by Application Proxy Users
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: request-processing
+    title: Request Processing
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: get-an-rpcrequest-object-rpcrequestfactory-class
+    title: 'Get an RpcRequest Object: RpcRequestFactory Class'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: set-rpcrequest-parameters-explicit-style
+    title: 'Set RpcRequest Parameters: “Explicit” Style'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: set-rpcrequest-parameters-setparams-style
+    title: 'Set RpcRequest Parameters: “setParams” Style'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: specifying-indices-for-list-type-rpc-parameters
+    title: Specifying Indices for List-Type RPC Parameters
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: other-useful-rpcrequest-methods
+    title: Other Useful RpcRequest Methods
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: response-processing
+    title: Response Processing
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: rpcresponse-class
+    title: RpcResponse Class
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: requestresponse-example
+    title: Request/Response Example
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: parsing-rpc-results
+    title: Parsing RPC Results
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: xml-responses
+    title: XML Responses
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: how-to-write-rpcs
+    title: How to Write RPCs
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: write-stateless-rpcs-whenever-possible
+    title: Write Stateless RPCs Whenever Possible
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: when-state-is-needed
+    title: When State is Needed
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: pitfalls-of-using-of-job-in-stateful-rpcs
+    title: Pitfalls of Using of \$JOB in Stateful RPCs
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: pitfalls-of-global-locking-in-stateful-rpcs
+    title: Pitfalls of Global Locking in Stateful RPCs
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalink-exception-hierarchy
+    title: VistALink Exception Hierarchy
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: common-foundationsexceptioninterface
+    title: Common FoundationsExceptionInterface
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalinkresourceexception
+    title: VistaLinkResourceException
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: foundationsexception
+    title: FoundationsException
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalinkfaultexception
+    title: VistaLinkFaultException
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: encryption-govvamedcrypto
+    title: 'Encryption: gov.va.med.crypto'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: j2ee-environment-govvamedenvironment
+    title: 'J2EE Environment: gov.va.med.environment'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: environmentisproduction
+    title: Environment.isProduction()
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: environmentgetservertype
+    title: Environment.getServerType()
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: network-govvamednet
+    title: 'Network: gov.va.med.net'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: audit-timer-govvamedmonitortime
+    title: 'Audit Timer: gov.va.med.monitor.time'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: sample-code
+    title: Sample Code
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: exception-govvamedexception
+    title: 'Exception: gov.va.med.exception'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: xml-govvamedxml
+    title: 'XML: gov.va.med.xml'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: xmlutilities-class
+    title: XmlUtilities Class
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: authenticating-and-connecting-to-vista-in-client-server-mode
+    title: Authenticating and Connecting to VistA in Client-Server Mode
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: jaas-overview
+    title: JAAS Overview
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalink-jaas-implementation
+    title: VistALink JAAS Implementation
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistaloginmodule
+    title: VistaLoginModule
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: jaas-login-configuration-overview
+    title: JAAS Login Configuration Overview
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistalink-specific-jaas-login-configuration
+    title: VistALink-Specific JAAS Login Configuration
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: passing-the-jaas-login-configurations-to-your-jvm
+    title: Passing the JAAS Login Configuration(s) to Your JVM
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: selecting-the-jaas-configuration-from-an-application
+    title: Selecting the JAAS Configuration From an Application
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: putting-the-pieces-together-vistalink-jaas-login
+    title: 'Putting the Pieces Together: VistALink JAAS Login'
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: logging-in-to-vista
+    title: Logging in to VistA
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: after-successfully-logging-in
+    title: After Successfully Logging In
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: retrieving-the-vistakernelprincipal
+    title: Retrieving the VistaKernelPrincipal
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: retrieving-the-authenticated-connection-from-the-principal
+    title: Retrieving the Authenticated Connection From the Principal
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: retrieving-user-demographic-information
+    title: Retrieving User Demographic Information
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: executing-rpcs
+    title: Executing RPCs
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: logging-out
+    title: Logging Out
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: catching-login-exceptions
+    title: Catching Login Exceptions
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistaloginmodule-exception-hierarchy
+    title: VistaLoginModule Exception Hierarchy
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: unit-testing-and-vistalink
+    title: Unit Testing and VistALink
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+- template_id: API:00ff282f
+  doc_type: API
+  evidence_docs: 8
+  sections:
+  - section_id: intended-audience
+    title: Intended Audience
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: document-conventions
+    title: Document Conventions
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: acronyms-and-definitions
+    title: Acronyms and Definitions
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: acronyms
+    title: Acronyms
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: definitions
+    title: Definitions
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: user-interfaces
+    title: User Interfaces
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: software-interfaces
+    title: Software Interfaces
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: hardware-interfaces
+    title: Hardware Interfaces
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50612-api--national-drug-translation-file-50612
+    title: PSN50612 API – NATIONAL DRUG TRANSLATION file (#50.612)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50625-api--warning-label--english-file-50625
+    title: PSN50625 API – WARNING LABEL – ENGLISH file (#50.625)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data-1
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50626-api--warning-label--spanish-file-50626
+    title: PSN50626 API – WARNING LABEL – SPANISH file (#50.626)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data-2
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50627-api--warning-label-map-file-50627
+    title: PSN50627 API – WARNING LABEL MAP file (#50.627)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data-3
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn5067-api--ndcupn-file-5067
+    title: PSN5067 API – NDC/UPN file (#50.67)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50p41-api--drug-ingredients-file-50416
+    title: PSN50P41 API – DRUG INGREDIENTS file (#50.416)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-apd
+    title: 'Component: APD'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-aps
+    title: 'Component: APS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-b
+    title: 'Component: B'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-id
+    title: 'Component: ID'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-name
+    title: 'Component: NAME'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50p6-api---va-generic-file-506
+    title: PSN50P6 API - VA GENERIC file (#50.6)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-root
+    title: 'Component: ROOT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-1
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50p65-api---va-drug-class-file-50605
+    title: PSN50P65 API - VA DRUG CLASS file (#50.605)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-c
+    title: 'Component: C'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-root-1
+    title: 'Component: ROOT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50p67-api--drug-units-file-50607
+    title: PSN50P67 API – DRUG UNITS file (#50.607)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-1
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn50p68-api--va-product-file-5068
+    title: PSN50P68 API – VA PRODUCT file (#50.68)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data-4
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-form
+    title: 'Component: FORM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psn56-api--drug-interaction-file-56
+    title: PSN56 API – DRUG INTERACTION file (#56)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-2
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien-1
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psnapis-api--api-for-ndf-files
+    title: PSNAPIS API – API for NDF files
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-b-1
+    title: 'Component: B'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cirn
+    title: 'Component: CIRN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cirn2
+    title: 'Component: CIRN2'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-class
+    title: 'Component: CLASS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-class2
+    title: 'Component: CLASS2'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-clist
+    title: 'Component: CLIST'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cmop
+    title: 'Component: CMOP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cprs
+    title: 'Component: CPRS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cptier
+    title: 'Component: CPTIER'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: component-dclass
+    title: 'Component: DCLASS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dclcode
+    title: 'Component: DCLCODE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ddiex
+    title: 'Component: DDIEX'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dfsu
+    title: 'Component: DFSU'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drgcls
+    title: 'Component: DRGCLS'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: component-drug
+    title: 'Component: DRUG'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dss
+    title: 'Component: DSS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-formi
+    title: 'Component: FORMI'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-formr
+    title: 'Component: FORMR'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-formrx
+    title: 'Component: FORMRX'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-intran
+    title: 'Component: INTRAN'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: component-ovride
+    title: 'Component: OVRIDE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-prod0
+    title: 'Component: PROD0'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-prod2
+    title: 'Component: PROD2'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psa
+    title: 'Component: PSA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psjdf
+    title: 'Component: PSJDF'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psjing
+    title: 'Component: PSJING'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psjst
+    title: 'Component: PSJST'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pspt
+    title: 'Component: PSPT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-qlist
+    title: 'Component: QLIST'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: component-t
+    title: 'Component: T'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-tgtog
+    title: 'Component: TGTOG'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-tgtog2
+    title: 'Component: TGTOG2'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ttog
+    title: 'Component: TTOG'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-vagn
+    title: 'Component: VAGN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-vap
+    title: 'Component: VAP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psndi-api--fileman-calls
+    title: '*PSNDI API – FileMan Calls*'
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dic--lookupadd
+    title: 'Component: DIC – Lookup/Add'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-die---edit-data
+    title: 'Component: DIE - Edit Data'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ix---lookupadd
+    title: 'Component: IX - Lookup/Add'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso5241-api--pending-outpatient-orders-file-5241
+    title: PSO5241 API – PENDING OUTPATIENT ORDERS file (#52.41)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pen
+    title: 'Component: PEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-nonva
+    title: 'Component: NONVA'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: pso5252-api--clozapine-prescription-overrides-file-5252
+    title: PSO5252 API – CLOZAPINE PRESCRIPTION OVERRIDES file (#52.52)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-en
+    title: 'Component: EN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso525ap-api--rx-suspense-file-525
+    title: PSO525AP API – RX SUSPENSE file (#52.5)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-sus
+    title: 'Component: SUS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso5291-api--tpb-eligibility-file-5291
+    title: PSO5291 API – TPB ELIGIBILITY file (#52.91)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pso
+    title: 'Component: PSO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso52api-api--prescription-file-52
+    title: PSO52API API – PRESCRIPTION file (#52)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-prof
+    title: 'Component: PROF'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-rx
+    title: 'Component: RX'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso52ex-api--prescription-file-52
+    title: PSO52EX API –– PRESCRIPTION file (#52)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-arxref
+    title: 'Component: ARXREF'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-extract
+    title: 'Component: EXTRACT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ref
+    title: 'Component: REF'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso53-api--rx-patient-status-file-53
+    title: PSO53 API – RX PATIENT STATUS file (#53)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pso-1
+    title: 'Component: PSO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso59-api--outpatient-site-file-59
+    title: PSO59 API – OUTPATIENT SITE file (#59)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss
+    title: 'Component: PSS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psodi-api--fileman-calls
+    title: PSODI API –– FileMan Calls
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dic
+    title: 'Component: DIC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-diq
+    title: 'Component: DIQ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-get1
+    title: 'Component: GET1'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-status
+    title: 'Component: STATUS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psoorder-api--prescription-file-52
+    title: PSOORDER API – PRESCRIPTION file (#52)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-en-1
+    title: 'Component: EN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psj53p1-api--non-verified-orders-file-531
+    title: PSJ53P1 API – NON-VERIFIED ORDERS file (#53.1)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psj
+    title: 'Component: PSJ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psj59p5-api--iv-room-file-595
+    title: PSJ59P5 API – IV ROOM file (#59.5)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-3
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-wrt
+    title: 'Component: WRT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: psj53p46-api--clinic-definition-file-5346
+    title: PSJ53P46 API – CLINIC DEFINITION file (#53.46)
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: component-allpsjienlist
+    title: 'Component: ALL(PSJIEN,LIST)'
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: psx550-api--cmop-system-file-550
+    title: PSX550 API – CMOP SYSTEM file (#550)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-psx
+    title: 'Component: PSX'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss32p3-api--apsp-intervention-type-file-90090323
+    title: PSS32P3 API – APSP INTERVENTION TYPE file (#9009032.3)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-4
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss32p5-api--apsp-intervention-recommendation-file-90090325
+    title: PSS32P5 API – APSP INTERVENTION RECOMMENDATION file (#9009032.5)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-5
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss50-api---drug-file-50
+    title: PSS50 API - DRUG file (#50)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-a526
+    title: 'Component: A526'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-a527
+    title: 'Component: A527'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ab
+    title: 'Component: AB'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-addoldnm
+    title: 'Component: ADDOLDNM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-aiu
+    title: 'Component: AIU'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-and
+    title: 'Component: AND'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-aoc
+    title: 'Component: AOC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ap
+    title: 'Component: AP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-aq
+    title: 'Component: AQ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-aq1
+    title: 'Component: AQ1'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-arws
+    title: 'Component: ARWS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-asp
+    title: 'Component: ASP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-atc
+    title: 'Component: ATC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-avsn
+    title: 'Component: AVSN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-b-2
+    title: 'Component: B'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-c-1
+    title: 'Component: C'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cloz
+    title: 'Component: CLOZ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-cmop-1
+    title: 'Component: CMOP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-csyn
+    title: 'Component: CSYN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-data-5
+    title: 'Component: DATA'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dose
+    title: 'Component: DOSE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drg
+    title: 'Component: DRG'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dspunt
+    title: 'Component: DSPUNT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-edtifcap
+    title: 'Component: EDTIFCAP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-frmalt
+    title: 'Component: FRMALT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien-2
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-inv
+    title: 'Component: INV'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-iu
+    title: 'Component: IU'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lab
+    title: 'Component: LAB'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-label
+    title: 'Component: LABEL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-list
+    title: 'Component: LIST'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-mrtn
+    title: 'Component: MRTN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-msg
+    title: 'Component: MSG'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ndc
+    title: 'Component: NDC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ndf
+    title: 'Component: NDF'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-nocmop
+    title: 'Component: NOCMOP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-oldnm
+    title: 'Component: OLDNM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-skaiu
+    title: 'Component: SKAIU'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-skaq
+    title: 'Component: SKAQ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-skaq1
+    title: 'Component: SKAQ1'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-skb
+    title: 'Component: SKB'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-skiu
+    title: 'Component: SKIU'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-sort
+    title: 'Component: SORT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-vac
+    title: 'Component: VAC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ws
+    title: 'Component: WS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-2
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss50p4-api--drug-electrolytes-file-504
+    title: PSS50P4 API – DRUG ELECTROLYTES file (#50.4)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-6
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss50p66-api--dosage-form-file-50606
+    title: PSS50P66 API – DOSAGE FORM file (#50.606)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-add
+    title: 'Component: ADD'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-7
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss50p7-api--pharmacy-orderable-item-file-507
+    title: PSS50P7 API – PHARMACY ORDERABLE ITEM file (#50.7)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drgien
+    title: 'Component: DRGIEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien-3
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-instr
+    title: 'Component: INSTR'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup-1
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-name-1
+    title: 'Component: NAME'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-synonym
+    title: 'Component: SYNONYM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-3
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss51-api--medication-instruction-file-51
+    title: PSS51 API – MEDICATION INSTRUCTION file (#51)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-a
+    title: 'Component: A'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-8
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-chk
+    title: 'Component: CHK'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup-2
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ward
+    title: 'Component: WARD'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss51p1-api--administration-schedule-file-511
+    title: PSS51P1 API – ADMINISTRATION SCHEDULE file (#51.1)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-adm
+    title: 'Component: ADM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-9
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ap-1
+    title: 'Component: AP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-hosp
+    title: 'Component: HOSP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien-4
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ix
+    title: 'Component: IX'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pssdq
+    title: 'Component: PSSDQ'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ward-1
+    title: 'Component: WARD'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-4
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss51p15-api--administration-shift-file-5115
+    title: PSS51P15 API – ADMINISTRATION SHIFT file (#51.15)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-acp
+    title: 'Component: ACP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-10
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss51p2-api--medication-routes-file-512
+    title: PSS51P2 API – MEDICATION ROUTES file (#51.2)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-11
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ien-5
+    title: 'Component: IEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-name-2
+    title: 'Component: NAME'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss51p5-api--order-unit-file-515
+    title: PSS51P5 API – ORDER UNIT file (#51.5)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-12
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-expan
+    title: 'Component: EXPAN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss52p6-api--iv-additives-file-526
+    title: PSS52P6 API – IV ADDITIVES file (#52.6)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drgien-1
+    title: 'Component: DRGIEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drginfo
+    title: 'Component: DRGINFO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-elytes
+    title: 'Component: ELYTES'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup-3
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-poi
+    title: 'Component: POI'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-qcode
+    title: 'Component: QCODE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-synonym-1
+    title: 'Component: SYNONYM'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-5
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss52p7-api--iv-solutions-file-527
+    title: PSS52P7 API – IV SOLUTIONS file (#52.7)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-actsol
+    title: 'Component: ACTSOL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-drgien-2
+    title: 'Component: DRGIEN'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-inactdt
+    title: 'Component: INACTDT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup-4
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-poi-1
+    title: 'Component: POI'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-poichk
+    title: 'Component: POICHK'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-zero-6
+    title: 'Component: ZERO'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss54-api--rx-consult-file-54
+    title: PSS54 API – RX CONSULT file (#54)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-all-13
+    title: 'Component: ALL'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-lookup-5
+    title: 'Component: LOOKUP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss55-api--pharmacy-patient-file-55
+    title: PSS55 API – PHARMACY PATIENT file (#55)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso52api---component-profcomponent-prof
+    title: '[**PSO52API - Component PROF**](#component-prof)'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss431
+    title: 'Component: PSS431'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss432
+    title: 'Component: PSS432'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss433
+    title: 'Component: PSS433'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss435
+    title: 'Component: PSS435'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss436
+    title: 'Component: PSS436'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pso5241-api--non-va-meds-subfile-5505-of-pharmacy-patient-file-55
+    title: PSO5241 API – NON-VA MEDS Subfile (#55.05) of PHARMACY PATIENT file (#55)
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: for-non-va-med-information-on-a-patient-please-see-pso5241-under-the-outpatient-pharmacy-section-of-this-manual-using-the-link-provided-below
+    title: For NON-VA Med information on a patient, please see PSO5241 under the Outpatient Pharmacy section
+      of this manual using the link provided below.
+    level: 3
+    required: false
+    toc_level: true
+    evidence_docs: 3
+  - section_id: pss55mis-api--pharmacy-patient-file-55
+    title: PSS55MIS API – PHARMACY PATIENT file (#55)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-clinic
+    title: 'Component: CLINIC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-status-1
+    title: 'Component: STATUS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss59p7-api--pharmacy-system-file-597
+    title: PSS59P7 API – PHARMACY SYSTEM file (#59.7)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss-1
+    title: 'Component: PSS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pss781-api--pharmacy-patient-file-55
+    title: PSS781 API – PHARMACY PATIENT file (#55)
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-pss-2
+    title: 'Component: PSS'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-wrt-1
+    title: 'Component: WRT'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pssdi-api--fileman-calls
+    title: PSSDI API – FileMan Calls
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-dic--lookupadd-1
+    title: 'Component: DIC – Lookup/Add'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-die
+    title: 'Component: DIE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-do---file-information-setup
+    title: 'Component: DO - File Information Setup'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-en--data-retrieval
+    title: 'Component: EN – Data Retrieval'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-en1
+    title: 'Component: EN1'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-file
+    title: 'Component: FILE'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-fname--field-name-retrieval
+    title: 'Component: FNAME – Field Name Retrieval'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-ix---lookupadd-call-ixdic
+    title: 'Component: IX - Lookup/Add call IX^DIC'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-mix--lookupadd
+    title: 'Component: MIX – Lookup/Add'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pssfiles-api--help-text
+    title: PSSFILES API – Help Text
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: component-hlp
+    title: 'Component: HLP'
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+- template_id: CFG:a314b964
+  doc_type: CFG
+  evidence_docs: 8
+  sections:
+  - section_id: overview
+    title: Overview
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: recommended-audience
+    title: Recommended Audience
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 5
+  - section_id: about-this-guide
+    title: About this Guide
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 5
+  - section_id: document-conventions
+    title: Document Conventions
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: related-documents
+    title: Related Documents
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: pre-requisite-patches
+    title: Pre-requisite Patches
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: install-reminder-content
+    title: Install Reminder Content
+    level: 2
+    required: false
+    toc_level: true
+    evidence_docs: 3
+- template_id: POM:33e031ff
+  doc_type: POM
+  evidence_docs: 5
+  sections:
+  - section_id: administrative-procedures
+    title: Administrative Procedures
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: system-startup
+    title: System Startup
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: system-shutdown
+    title: System Shutdown
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: backup-and-restore
+    title: Backup and Restore
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: securityidentity-management
+    title: Security/Identity Management
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: identity-management
+    title: Identity Management
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: access-control
+    title: Access control
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: user-notifications
+    title: User Notifications
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: user-notification-points-of-contact
+    title: User Notification Points of Contact
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: system-monitoring-reporting-and-tools
+    title: System Monitoring, Reporting and Tools
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: dataflow-diagram
+    title: Dataflow Diagram
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: availability-monitoring
+    title: Availability Monitoring
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: performancecapacity-monitoring
+    title: Performance/Capacity Monitoring
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: critical-metrics
+    title: Critical Metrics
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: routine-updates-extracts-and-purges
+    title: Routine Updates, Extracts and Purges
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: scheduled-maintenance
+    title: Scheduled Maintenance
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: capacity-planning
+    title: Capacity Planning
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: initial-capacity-plan
+    title: Initial Capacity Plan
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: routine-errors
+    title: Routine Errors
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: security-errors
+    title: Security Errors
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: time-outs
+    title: Time-outs
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: concurrency
+    title: Concurrency
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: significant-errors
+    title: Significant Errors
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: application-error-logs
+    title: Application Error Logs
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: application-error-codes-and-descriptions
+    title: Application Error Codes and Descriptions
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: infrastructure-errors
+    title: Infrastructure Errors
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: dependent-systems
+    title: Dependent Systems
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: troubleshooting
+    title: Troubleshooting
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: system-recovery
+    title: System Recovery
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: restart-after-non-scheduled-system-interruption
+    title: Restart after Non-Scheduled System Interruption
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: restart-after-database-restore
+    title: Restart after Database Restore
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: back-out-procedures
+    title: Back-out Procedures
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: rollback-procedures
+    title: Rollback Procedures
+    level: 3
+    required: true
+    toc_level: true
+    evidence_docs: 3
+- template_id: AG:84a6ee21
+  doc_type: AG
+  evidence_docs: 4
+  sections:
+  - section_id: intended-audience
+    title: Intended Audience
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 4
+  - section_id: terms-of-use
+    title: Terms of Use
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: document-conventions
+    title: Document Conventions
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: related-information
+    title: Related Information
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-major-functions
+    title: CVIX Major Functions
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-physical-and-logical-description
+    title: CVIX Physical and Logical Description
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-operational-priority
+    title: CVIX Operational Priority
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-dependencies
+    title: CVIX Dependencies
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: the-cvix-vixes-and-multidivisional-va-sites
+    title: The CVIX, VIXes, and Multidivisional VA Sites
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-connection-security
+    title: CVIX Connection Security
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-monitoring
+    title: CVIX Monitoring
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: using-the-cvix-transaction-log
+    title: Using the CVIX Transaction Log
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: using-the-cache-manager
+    title: Using the Cache Manager
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: user-notifications
+    title: User Notifications
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cluster-related-activities
+    title: Cluster-related Activities
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-planned-startup-and-shutdown
+    title: CVIX Planned Startup and Shutdown
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-data-retention-and-purges
+    title: CVIX Data Retention and Purges
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-and-backups
+    title: CVIX and Backups
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-and-user-management
+    title: CVIX and User Management
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vista-site-service-overview
+    title: VistA Site Service Overview
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: checking-the-site-service
+    title: Checking the Site Service
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: updating-site-service-data
+    title: Updating Site Service Data
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: remote-metadata-retrieval
+    title: Remote Metadata Retrieval
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: remote-image-retrieval
+    title: Remote Image Retrieval
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: caching-of-metadata-and-images
+    title: Caching of Metadata and Images
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: image-sharing-and-cvix-timeouts
+    title: Image Sharing and CVIX Timeouts
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vix-log-collector-overview
+    title: VIX Log Collector Overview
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: log-collector-automatic-emails
+    title: Log Collector Automatic Emails
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: archived-transaction-log-storage-area
+    title: Archived Transaction Log Storage Area
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: excluding-a-vix-from-log-collection
+    title: Excluding a VIX from Log Collection
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: routine-errors
+    title: Routine Errors
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: significant-errors
+    title: Significant Errors
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: unplanned-shutdowns
+    title: Unplanned Shutdowns
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-support
+    title: CVIX Support
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: cvix-java-components
+    title: CVIX Java Components
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: vistam-information
+    title: VistA/M Information
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+  - section_id: other-vix-components
+    title: Other VIX Components
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3
+- template_id: PDD:d3db5338
+  doc_type: PDD
+  evidence_docs: 3
+  sections:
+  - section_id: introduction
+    title: Introduction
+    level: 2
+    required: true
+    toc_level: true
+    evidence_docs: 3

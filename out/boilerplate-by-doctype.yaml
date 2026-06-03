@@ -1,0 +1,3872 @@
+boilerplate:
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 57
+  doc_type: DIBR
+- id: bp-5b8789c78d
+  label: Office of Information and Technology (OIT)
+  key: office of information and technology (oit)
+  text: Office of Information and Technology (OIT)
+  evidence_docs: 48
+  doc_type: DIBR
+- id: bp-5dba130e8b
+  label: '**Revision History**'
+  key: '**revision history**'
+  text: '**Revision History**'
+  evidence_docs: 41
+  doc_type: DIBR
+- id: bp-c9ad40dbe6
+  label: Department of Veterans Affairs (VA)
+  key: department of veterans affairs (va)
+  text: Department of Veterans Affairs (VA)
+  evidence_docs: 39
+  doc_type: DIBR
+- id: bp-2b01435996
+  label: Office of Information and Technology (OI&T)
+  key: office of information and technology (oi&t)
+  text: Office of Information and Technology (OI&T)
+  evidence_docs: 30
+  doc_type: DIBR
+- id: bp-a3ddae3d9a
+  label: The following table describes software specificati
+  key: the following table describes software specifications required at each site prior to deployment.
+  text: The following table describes software specifications required at each site prior to deployment.
+  evidence_docs: 30
+  doc_type: DIBR
+- id: bp-2c1e82f08b
+  label: Per the Veteran-focused Integrated Process (VIP) G
+  key: per the veteran-focused integrated process (vip) guide, the deployment, installation, back-out,
+    and rollback plan is required to be completed prior to critical decision point \#2 (cd \#2), with
+    the expectation that it will be updated throughout the lifecycle of the project for each build, as
+    needed.
+  text: Per the Veteran-focused Integrated Process (VIP) Guide, the Deployment, Installation, Back-out,
+    and Rollback Plan is required to be completed prior to Critical Decision Point \#2 (CD \#2), with
+    the expectation that it will be updated throughout the lifecycle of the project for each build, as
+    needed.
+  evidence_docs: 28
+  doc_type: DIBR
+- id: bp-8e98178924
+  label: The following table describes preparation required
+  key: the following table describes preparation required by the site prior to deployment.
+  text: The following table describes preparation required by the site prior to deployment.
+  evidence_docs: 27
+  doc_type: DIBR
+- id: bp-a610dfbff2
+  label: '**Artifact Rationale**'
+  key: '**artifact rationale**'
+  text: '**Artifact Rationale**'
+  evidence_docs: 27
+  doc_type: DIBR
+- id: bp-bb6653d020
+  label: Back-out pertains to a return to the last known go
+  key: back-out pertains to a return to the last known good operational state of the software and appropriate
+    platform settings.
+  text: Back-out pertains to a return to the last known good operational state of the software and appropriate
+    platform settings.
+  evidence_docs: 24
+  doc_type: DIBR
+- id: bp-23527db518
+  label: 4.  Select the Install Package(s) option and choos
+  key: 4. select the install package(s) option and choose the patch to install.
+  text: 4.  Select the Install Package(s) option and choose the patch to install.
+  evidence_docs: 21
+  doc_type: DIBR
+- id: bp-8bea8a5b1e
+  label: '**Table 1: Deployment, Installation, Back-out, and'
+  key: '**table 1: deployment, installation, back-out, and rollback roles and responsibilities**'
+  text: '**Table 1: Deployment, Installation, Back-out, and Rollback Roles and Responsibilities**'
+  evidence_docs: 21
+  doc_type: DIBR
+- id: bp-d8b280f5db
+  label: 3.  You may also elect to use the following option
+  key: '3. you may also elect to use the following options:'
+  text: '3.  You may also elect to use the following options:'
+  evidence_docs: 21
+  doc_type: DIBR
+- id: bp-ec0b26653d
+  label: This document describes the Deployment, Installati
+  key: this document describes the deployment, installation, back-out, and rollback guide for new products
+    going into the va enterprise. the plan includes information about system support, issue tracking,
+    escalation processes, and roles and responsibilities involved in all those activities. its purpose
+    is to provide clients, stakeholders, and support personnel with a smooth transition to the new product
+    or software, and should be structured appropriately, to reflect particulars of these procedures at
+    a single or at multiple locations.
+  text: This document describes the Deployment, Installation, Back-out, and Rollback Guide for new products
+    going into the VA Enterprise. The plan includes information about system support, issue tracking,
+    escalation processes, and roles and responsibilities involved in all those activities. Its purpose
+    is to provide clients, stakeholders, and support personnel with a smooth transition to the new product
+    or software, and should be structured appropriately, to reflect particulars of these procedures at
+    a single or at multiple locations.
+  evidence_docs: 21
+  doc_type: DIBR
+- id: bp-2c2f549b9d
+  label: The following table lists facility-specific featur
+  key: the following table lists facility-specific features required for deployment.
+  text: The following table lists facility-specific features required for deployment.
+  evidence_docs: 20
+  doc_type: DIBR
+- id: bp-4631d203d8
+  label: The following table describes hardware specificati
+  key: the following table describes hardware specifications required at each site prior to deployment.
+  text: The following table describes hardware specifications required at each site prior to deployment.
+  evidence_docs: 20
+  doc_type: DIBR
+- id: bp-9c12be4807
+  label: 'Table 1: Deployment, Installation, Back-out, and R'
+  key: 'table 1: deployment, installation, back-out, and rollback roles and responsibilities'
+  text: 'Table 1: Deployment, Installation, Back-out, and Rollback Roles and Responsibilities'
+  evidence_docs: 20
+  doc_type: DIBR
+- id: bp-fd378280fd
+  label: 2.  Compare Transport Global to Current System - T
+  key: 2. compare transport global to current system - this option will allow you to view all changes
+    that will be made when this patch is installed. it compares all of the components of this patch, such
+    as routines, dds, templates, etc.
+  text: 2.  Compare Transport Global to Current System - This option will allow you to view all changes
+    that will be made when this patch is installed. It compares all of the components of this patch, such
+    as routines, DDs, templates, etc.
+  evidence_docs: 20
+  doc_type: DIBR
+- id: bp-297831ed5d
+  label: 1.  Select the Verify Checksums in Transport Globa
+  key: 1. select the verify checksums in transport global option to confirm the integrity of the routines
+    that are in the transport global. when prompted for the install name enter the patch or build name.
+  text: 1.  Select the Verify Checksums in Transport Global option to confirm the integrity of the routines
+    that are in the transport global. When prompted for the INSTALL NAME enter the patch or build name.
+  evidence_docs: 19
+  doc_type: DIBR
+- id: bp-3542aed482
+  label: 1.  Choose the PackMan message containing this bui
+  key: 1. choose the packman message containing this build. then select the install/check message packman
+    option to load the build.
+  text: 1.  Choose the PackMan message containing this build. Then select the INSTALL/CHECK MESSAGE PackMan
+    option to load the build.
+  evidence_docs: 19
+  doc_type: DIBR
+- id: bp-7c00a2b630
+  label: Please see the Roles and Responsibilities table in
+  key: please see the roles and responsibilities table in section 2 above for details about who is responsible
+    for preparing the site to meet these software specifications.
+  text: Please see the Roles and Responsibilities table in Section 2 above for details about who is responsible
+    for preparing the site to meet these software specifications.
+  evidence_docs: 19
+  doc_type: DIBR
+- id: bp-4c0ea9d5df
+  label: This patch is intended for a fully patched VistA s
+  key: this patch is intended for a fully patched vista system.
+  text: This patch is intended for a fully patched VistA system.
+  evidence_docs: 18
+  doc_type: DIBR
+- id: bp-aeb4ce7e49
+  label: 1.  If prompted 'Want KIDS to Rebuild Menu Trees U
+  key: 1. if prompted 'want kids to rebuild menu trees upon completion of install? no//', answer no.
+  text: 1.  If prompted 'Want KIDS to Rebuild Menu Trees Upon Completion of Install? NO//', answer NO.
+  evidence_docs: 18
+  doc_type: DIBR
+- id: bp-31e99164cf
+  label: No system configuration changes are required for t
+  key: no system configuration changes are required for this patch.
+  text: No system configuration changes are required for this patch.
+  evidence_docs: 17
+  doc_type: DIBR
+- id: bp-8b044b0dd8
+  label: '| **Site** | **Space/Room** | **Features Needed**'
+  key: '| **site** | **space/room** | **features needed** | **other** | |----------|----------------|---------------------|-----------|
+    | n/a | n/a | n/a | n/a |'
+  text: '| **Site** | **Space/Room** | **Features Needed** | **Other** |
+
+    |----------|----------------|---------------------|-----------|
+
+    | N/A      | N/A            | N/A                 | N/A       |'
+  evidence_docs: 17
+  doc_type: DIBR
+- id: bp-e2bd217b7f
+  label: 2.  From the Kernel Installation and Distribution
+  key: 2. from the kernel installation and distribution system menu, select the installation menu. from
+    this menu,
+  text: 2.  From the Kernel Installation and Distribution System Menu, select the Installation Menu. From
+    this menu,
+  evidence_docs: 17
+  doc_type: DIBR
+- id: bp-096c0dbd4c
+  label: 2.  Select the Backup a Transport Global option to
+  key: '2. select the backup a transport global option to create a backup message. you must use this option
+    and specify what to backup: the entire build or just routines. the backup message can be used to restore
+    the routines and components of the build to the pre-patch condition.'
+  text: '2.  Select the Backup a Transport Global option to create a backup message. You must use this
+    option and specify what to backup: the entire Build or just Routines. The backup message can be used
+    to restore the routines and components of the build to the pre-patch condition.'
+  evidence_docs: 16
+  doc_type: DIBR
+- id: bp-3fc658332b
+  label: Deployment, Installation, Back-Out, and Rollback G
+  key: deployment, installation, back-out, and rollback guide
+  text: Deployment, Installation, Back-Out, and Rollback Guide
+  evidence_docs: 16
+  doc_type: DIBR
+- id: bp-85354129f2
+  label: 3.  Verify Checksums in Transport Global - This op
+  key: 3. verify checksums in transport global - this option will allow you to ensure the integrity of
+    the routines that are in the transport global.
+  text: 3.  Verify Checksums in Transport Global - This option will allow you to ensure the integrity
+    of the routines that are in the transport global.
+  evidence_docs: 16
+  doc_type: DIBR
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 16
+  doc_type: DIBR
+- id: bp-d9fd552488
+  label: Enter the Device you want to print the Install mes
+  key: enter the device you want to print the install messages.
+  text: Enter the Device you want to print the Install messages.
+  evidence_docs: 16
+  doc_type: DIBR
+- id: bp-977f75fa88
+  label: 'It consisted of the following Install(s):'
+  key: 'it consisted of the following install(s):'
+  text: 'It consisted of the following Install(s):'
+  evidence_docs: 15
+  doc_type: DIBR
+- id: bp-b26836e91d
+  label: 'Table 4: Hardware Specifications'
+  key: 'table 4: hardware specifications'
+  text: 'Table 4: Hardware Specifications'
+  evidence_docs: 15
+  doc_type: DIBR
+- id: bp-bc4cba7481
+  label: 'Table 2: Site Preparation'
+  key: 'table 2: site preparation'
+  text: 'Table 2: Site Preparation'
+  evidence_docs: 15
+  doc_type: DIBR
+- id: bp-0448e88064
+  label: 'Installation Instructions:'
+  key: 'installation instructions:'
+  text: 'Installation Instructions:'
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-2ba1752ec5
+  label: Want KIDS to INHIBIT LOGONs during the install? NO
+  key: want kids to inhibit logons during the install? no//
+  text: Want KIDS to INHIBIT LOGONs during the install? NO//
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-42d1271bdf
+  label: Updating KIDS files...
+  key: updating kids files...
+  text: Updating KIDS files...
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-477a4b4cfc
+  label: '| **Site/Other** | **Problem/Change Needed** | **F'
+  key: '| **site/other** | **problem/change needed** | **features to adapt/modify to new product** | **actions/steps**
+    | **owner** | |----------------|---------------------------|---------------------------------------------|-------------------|-----------|
+    | n/a | n/a | n/a | n/a | n/a |'
+  text: '| **Site/Other** | **Problem/Change Needed** | **Features to Adapt/Modify to New Product** |
+    **Actions/Steps** | **Owner** |
+
+    |----------------|---------------------------|---------------------------------------------|-------------------|-----------|
+
+    | N/A            | N/A                       | N/A                                         | N/A               |
+    N/A       |'
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-614b180e30
+  label: 4.  From the Installation Menu, select the Install
+  key: 4. from the installation menu, select the install package(s) option and choose the patch to install.
+  text: 4.  From the Installation Menu, select the Install Package(s) option and choose the patch to install.
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-62575751b9
+  label: Updating Routine file...
+  key: updating routine file...
+  text: Updating Routine file...
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-86fbb9999b
+  label: Enter a '^' to abort the install.
+  key: enter a '^' to abort the install.
+  text: Enter a '^' to abort the install.
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-bd17fe2393
+  label: 'Table 5: Software Specifications'
+  key: 'table 5: software specifications'
+  text: 'Table 5: Software Specifications'
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-e675378fe6
+  label: '> The purpose of this plan is to provide a single,'
+  key: '> the purpose of this plan is to provide a single, common document that describes how, when, where,
+    and to whom the bms application will be deployed and installed, as well as how it is to be backed
+    out and rolled back, if necessary. the plan also identifies resources, communications plan, and rollout
+    schedule. specific instructions for installation, back-out, and rollback are included in this document.'
+  text: '> The purpose of this plan is to provide a single, common document that describes how, when,
+    where, and to whom the BMS application will be deployed and installed, as well as how it is to be
+    backed out and rolled back, if necessary. The plan also identifies resources, communications plan,
+    and rollout schedule. Specific instructions for installation, back-out, and rollback are included
+    in this document.'
+  evidence_docs: 14
+  doc_type: DIBR
+- id: bp-2b43257f34
+  label: 5.  Determine the DNS server name or IP address fo
+  key: 5. determine the dns server name or ip address for the appropriate vista server.
+  text: 5.  Determine the DNS server name or IP address for the appropriate VistA server.
+  evidence_docs: 13
+  doc_type: DIBR
+- id: bp-8be3de7e05
+  label: '| Activity | Day | Time | Individual who completed'
+  key: '| activity | day | time | individual who completed task | |----------|-----|------|-------------------------------|
+    | deploy | | | | | install | | | | | back-out | | | |'
+  text: '| Activity | Day | Time | Individual who completed task |
+
+    |----------|-----|------|-------------------------------|
+
+    | Deploy   |     |      |                               |
+
+    | Install  |     |      |                               |
+
+    | Back-Out |     |      |                               |'
+  evidence_docs: 13
+  doc_type: DIBR
+- id: bp-aa1c47f499
+  label: Not a production UCI
+  key: not a production uci
+  text: Not a production UCI
+  evidence_docs: 13
+  doc_type: DIBR
+- id: bp-e68f596206
+  label: 'Table 6: Deployment/Installation/Back-Out Checklis'
+  key: 'table 6: deployment/installation/back-out checklist'
+  text: 'Table 6: Deployment/Installation/Back-Out Checklist'
+  evidence_docs: 13
+  doc_type: DIBR
+- id: bp-e6cebdaeb2
+  label: 'Table : Deployment/Installation/Back-Out Checklist'
+  key: 'table : deployment/installation/back-out checklist'
+  text: 'Table : Deployment/Installation/Back-Out Checklist'
+  evidence_docs: 13
+  doc_type: DIBR
+- id: bp-10238b8e34
+  label: 'Installing Routines:'
+  key: 'installing routines:'
+  text: 'Installing Routines:'
+  evidence_docs: 12
+  doc_type: DIBR
+- id: bp-173d73ef49
+  label: NO Install Message sent
+  key: no install message sent
+  text: NO Install Message sent
+  evidence_docs: 12
+  doc_type: DIBR
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 59
+  doc_type: IG
+- id: bp-10238b8e34
+  label: 'Installing Routines:'
+  key: 'installing routines:'
+  text: 'Installing Routines:'
+  evidence_docs: 32
+  doc_type: IG
+- id: bp-42d1271bdf
+  label: Updating KIDS files...
+  key: updating kids files...
+  text: Updating KIDS files...
+  evidence_docs: 32
+  doc_type: IG
+- id: bp-62575751b9
+  label: Updating Routine file...
+  key: updating routine file...
+  text: Updating Routine file...
+  evidence_docs: 32
+  doc_type: IG
+- id: bp-eadaa7f4fb
+  label: 'Installing PACKAGE COMPONENTS:'
+  key: 'installing package components:'
+  text: 'Installing PACKAGE COMPONENTS:'
+  evidence_docs: 32
+  doc_type: IG
+- id: bp-4ec53755a7
+  label: You can queue the install by enter a 'Q' at the de
+  key: you can queue the install by enter a 'q' at the device prompt.
+  text: You can queue the install by enter a 'Q' at the device prompt.
+  evidence_docs: 31
+  doc_type: IG
+- id: bp-86fbb9999b
+  label: Enter a '^' to abort the install.
+  key: enter a '^' to abort the install.
+  text: Enter a '^' to abort the install.
+  evidence_docs: 31
+  doc_type: IG
+- id: bp-d9fd552488
+  label: Enter the Device you want to print the Install mes
+  key: enter the device you want to print the install messages.
+  text: Enter the Device you want to print the Install messages.
+  evidence_docs: 31
+  doc_type: IG
+- id: bp-977f75fa88
+  label: 'It consisted of the following Install(s):'
+  key: 'it consisted of the following install(s):'
+  text: 'It consisted of the following Install(s):'
+  evidence_docs: 30
+  doc_type: IG
+- id: bp-356971d3fd
+  label: I will OVERWRITE your data with mine.
+  key: i will overwrite your data with mine.
+  text: I will OVERWRITE your data with mine.
+  evidence_docs: 26
+  doc_type: IG
+- id: bp-7f9a16a0d2
+  label: '**INSTALLATION GUIDE**'
+  key: '**installation guide**'
+  text: '**INSTALLATION GUIDE**'
+  evidence_docs: 24
+  doc_type: IG
+- id: bp-8a0ab7bc04
+  label: 'Installing Data Dictionaries:'
+  key: 'installing data dictionaries:'
+  text: 'Installing Data Dictionaries:'
+  evidence_docs: 23
+  doc_type: IG
+- id: bp-2f6208dc30
+  label: Unload a Distribution
+  key: unload a distribution
+  text: Unload a Distribution
+  evidence_docs: 22
+  doc_type: IG
+- id: bp-546f04e574
+  label: Restart Install of Package(s)
+  key: restart install of package(s)
+  text: Restart Install of Package(s)
+  evidence_docs: 22
+  doc_type: IG
+- id: bp-02da5f16c5
+  label: 4 Compare Transport Global to Current System
+  key: 4 compare transport global to current system
+  text: 4 Compare Transport Global to Current System
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-304a06b6cf
+  label: 5 Backup a Transport Global
+  key: 5 backup a transport global
+  text: 5 Backup a Transport Global
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-5fa91e5e32
+  label: 3 Print Transport Global
+  key: 3 print transport global
+  text: 3 Print Transport Global
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-6e95b57c6b
+  label: Loading Distribution...
+  key: loading distribution...
+  text: Loading Distribution...
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-7d25945ad8
+  label: 6 Install Package(s)
+  key: 6 install package(s)
+  text: 6 Install Package(s)
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-a80cab1ddd
+  label: 1 Load a Distribution
+  key: 1 load a distribution
+  text: 1 Load a Distribution
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-edfc4fab7d
+  label: 2 Verify Checksums in Transport Global
+  key: 2 verify checksums in transport global
+  text: 2 Verify Checksums in Transport Global
+  evidence_docs: 20
+  doc_type: IG
+- id: bp-229b7c7ac4
+  label: Want to DISABLE Scheduled Options, Menu Options, a
+  key: want to disable scheduled options, menu options, and protocols? yes//
+  text: Want to DISABLE Scheduled Options, Menu Options, and Protocols? YES//
+  evidence_docs: 19
+  doc_type: IG
+- id: bp-e615bafc14
+  label: This Distribution contains Transport Globals for t
+  key: 'this distribution contains transport globals for the following package(s):'
+  text: 'This Distribution contains Transport Globals for the following Package(s):'
+  evidence_docs: 18
+  doc_type: IG
+- id: bp-856748fba5
+  label: 'NOTE: This package also contains OPTIONS'
+  key: 'note: this package also contains options'
+  text: 'NOTE: This package also contains OPTIONS'
+  evidence_docs: 16
+  doc_type: IG
+- id: bp-26b3c7ccbf
+  label: Setting up programmer environment
+  key: setting up programmer environment
+  text: Setting up programmer environment
+  evidence_docs: 15
+  doc_type: IG
+- id: bp-2ba1752ec5
+  label: Want KIDS to INHIBIT LOGONs during the install? NO
+  key: want kids to inhibit logons during the install? no//
+  text: Want KIDS to INHIBIT LOGONs during the install? NO//
+  evidence_docs: 15
+  doc_type: IG
+- id: bp-5eced14cd4
+  label: 'NOTE: This package also contains INPUT TEMPLATES'
+  key: 'note: this package also contains input templates'
+  text: 'NOTE: This package also contains INPUT TEMPLATES'
+  evidence_docs: 15
+  doc_type: IG
+- id: bp-d1fc86303e
+  label: Want KIDS to Rebuild Menu Trees Upon Completion of
+  key: want kids to rebuild menu trees upon completion of install? yes// **no**
+  text: Want KIDS to Rebuild Menu Trees Upon Completion of Install? YES// **NO**
+  evidence_docs: 15
+  doc_type: IG
+- id: bp-1d9358b22e
+  label: Edits and Distribution ...
+  key: edits and distribution ...
+  text: Edits and Distribution ...
+  evidence_docs: 14
+  doc_type: IG
+- id: bp-570551dd95
+  label: 'Enter options you wish to mark as ''Out Of Order'':'
+  key: 'enter options you wish to mark as ''out of order'':'
+  text: 'Enter options you wish to mark as ''Out Of Order'':'
+  evidence_docs: 14
+  doc_type: IG
+- id: bp-9b70f6b9f5
+  label: <span class="mark">REDACTED</span>
+  key: <span class="mark">redacted</span>
+  text: <span class="mark">REDACTED</span>
+  evidence_docs: 14
+  doc_type: IG
+- id: bp-b9fd80e2ff
+  label: 'I AM GOING TO SET UP THE FOLLOWING FILES:'
+  key: 'i am going to set up the following files:'
+  text: 'I AM GOING TO SET UP THE FOLLOWING FILES:'
+  evidence_docs: 14
+  doc_type: IG
+- id: bp-e76973d16a
+  label: Installing REMOTE PROCEDURE
+  key: installing remote procedure
+  text: Installing REMOTE PROCEDURE
+  evidence_docs: 14
+  doc_type: IG
+- id: bp-173d73ef49
+  label: NO Install Message sent
+  key: no install message sent
+  text: NO Install Message sent
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-25be88ac0b
+  label: '--------------------------------------------------'
+  key: '-------------------------------------------------------------------------------'
+  text: '-------------------------------------------------------------------------------'
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-31282f933c
+  label: Enter protocols you wish to mark as 'Out Of Order'
+  key: 'enter protocols you wish to mark as ''out of order'':'
+  text: 'Enter protocols you wish to mark as ''Out Of Order'':'
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-69799825f0
+  label: Installing INPUT TEMPLATE
+  key: installing input template
+  text: Installing INPUT TEMPLATE
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-9a8e9a9a25
+  label: Select Kernel Installation & Distribution System O
+  key: 'select kernel installation & distribution system option: installation'
+  text: 'Select Kernel Installation & Distribution System Option: Installation'
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-aa9a3bb9ab
+  label: 'NOTE: This package also contains SECURITY KEYS'
+  key: 'note: this package also contains security keys'
+  text: 'NOTE: This package also contains SECURITY KEYS'
+  evidence_docs: 13
+  doc_type: IG
+- id: bp-6ca79a01fb
+  label: SHALL I WRITE OVER EXISTING INPUT TEMPLATES OF THE
+  key: shall i write over existing input templates of the same name? yes//
+  text: SHALL I WRITE OVER EXISTING INPUT TEMPLATES OF THE SAME NAME? YES//
+  evidence_docs: 12
+  doc_type: IG
+- id: bp-aa1c47f499
+  label: Not a production UCI
+  key: not a production uci
+  text: Not a production UCI
+  evidence_docs: 12
+  doc_type: IG
+- id: bp-1e5e50e00e
+  label: Want KIDS to Rebuild Menu Trees Upon Completion of
+  key: want kids to rebuild menu trees upon completion of install? no//
+  text: Want KIDS to Rebuild Menu Trees Upon Completion of Install? NO//
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-299cbf68ab
+  label: Installing SECURITY KEY
+  key: installing security key
+  text: Installing SECURITY KEY
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-39a65aac65
+  label: Product Development (PD)
+  key: product development (pd)
+  text: Product Development (PD)
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-5fd39719a3
+  label: 'NOTE: This package also contains SORT TEMPLATES'
+  key: 'note: this package also contains sort templates'
+  text: 'NOTE: This package also contains SORT TEMPLATES'
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-a7db08158d
+  label: Want KIDS to INHIBIT LOGONs during the install? YE
+  key: want kids to inhibit logons during the install? yes// no
+  text: Want KIDS to INHIBIT LOGONs during the install? YES// NO
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-ad790bb42f
+  label: 'NOTE: This package also contains PRINT TEMPLATES'
+  key: 'note: this package also contains print templates'
+  text: 'NOTE: This package also contains PRINT TEMPLATES'
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-e871701b8e
+  label: '- Verify Checksums in Transport Global'
+  key: '- verify checksums in transport global'
+  text: '- Verify Checksums in Transport Global'
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-f57bfb71da
+  label: '- Compare Transport Global to Current System'
+  key: '- compare transport global to current system'
+  text: '- Compare Transport Global to Current System'
+  evidence_docs: 11
+  doc_type: IG
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 53
+  doc_type: RN
+- id: bp-5cf1359702
+  label: 'The following documents apply to this release:'
+  key: 'the following documents apply to this release:'
+  text: 'The following documents apply to this release:'
+  evidence_docs: 16
+  doc_type: RN
+- id: bp-813a91752e
+  label: '**<span class="smallcaps">Release Notes</span>**'
+  key: '**<span class="smallcaps">release notes</span>**'
+  text: '**<span class="smallcaps">Release Notes</span>**'
+  evidence_docs: 14
+  doc_type: RN
+- id: bp-a24a1169b8
+  label: '![](bef32da019e17b7948fcf61d05ff68558fa625ac25a40e'
+  key: '![](bef32da019e17b7948fcf61d05ff68558fa625ac25a40e8e8a8b7584f44959d6.jpeg)'
+  text: '![](bef32da019e17b7948fcf61d05ff68558fa625ac25a40e8e8a8b7584f44959d6.jpeg)'
+  evidence_docs: 11
+  doc_type: RN
+- id: bp-2b01435996
+  label: Office of Information and Technology (OI&T)
+  key: office of information and technology (oi&t)
+  text: Office of Information and Technology (OI&T)
+  evidence_docs: 9
+  doc_type: RN
+- id: bp-95db3a9912
+  label: Computerized Patient Record System Product Line
+  key: computerized patient record system product line
+  text: Computerized Patient Record System Product Line
+  evidence_docs: 9
+  doc_type: RN
+- id: bp-f07c9d1457
+  label: The most recent entries in this list are linked to
+  key: the most recent entries in this list are linked to the location in the manual they describe. click
+    on a link or page number to go to that section.
+  text: The most recent entries in this list are linked to the location in the manual they describe. Click
+    on a link or page number to go to that section.
+  evidence_docs: 8
+  doc_type: RN
+- id: bp-39a65aac65
+  label: Product Development (PD)
+  key: product development (pd)
+  text: Product Development (PD)
+  evidence_docs: 7
+  doc_type: RN
+- id: bp-5b8789c78d
+  label: Office of Information and Technology (OIT)
+  key: office of information and technology (oit)
+  text: Office of Information and Technology (OIT)
+  evidence_docs: 7
+  doc_type: RN
+- id: bp-ad4425e5f5
+  label: Office of Information & Technology (OI&T)
+  key: office of information & technology (oi&t)
+  text: Office of Information & Technology (OI&T)
+  evidence_docs: 7
+  doc_type: RN
+- id: bp-c9ad40dbe6
+  label: Department of Veterans Affairs (VA)
+  key: department of veterans affairs (va)
+  text: Department of Veterans Affairs (VA)
+  evidence_docs: 7
+  doc_type: RN
+- id: bp-ea71531d1a
+  label: Office of Enterprise Development
+  key: office of enterprise development
+  text: Office of Enterprise Development
+  evidence_docs: 7
+  doc_type: RN
+- id: bp-4654c80345
+  label: Office of Information and Technology
+  key: office of information and technology
+  text: Office of Information and Technology
+  evidence_docs: 5
+  doc_type: RN
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 5
+  doc_type: RN
+- id: bp-c01a939f42
+  label: '**Table of Contents**'
+  key: '**table of contents**'
+  text: '**Table of Contents**'
+  evidence_docs: 5
+  doc_type: RN
+- id: bp-25be88ac0b
+  label: '--------------------------------------------------'
+  key: '-------------------------------------------------------------------------------'
+  text: '-------------------------------------------------------------------------------'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-29671bdf78
+  label: '--------------------------------------------------'
+  key: '-------------------------------------------------------------------------------------------------------'
+  text: '-------------------------------------------------------------------------------------------------------'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-2f35ea5312
+  label: APPLICATION/VERSION PATCH
+  key: application/version patch
+  text: APPLICATION/VERSION PATCH
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-2f4f87f257
+  label: The following patches are required for functionali
+  key: 'the following patches are required for functionality but are not required for installation:'
+  text: 'The following patches are required for functionality but are not required for installation:'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-4e5179554a
+  label: '- Online Help System'
+  key: '- online help system'
+  text: '- Online Help System'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-513a1401f3
+  label: '--------------------------------------------------'
+  key: '-----------------------------------------------------------------------'
+  text: '-----------------------------------------------------------------------'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-5dba130e8b
+  label: '**Revision History**'
+  key: '**revision history**'
+  text: '**Revision History**'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-63c1daf40d
+  label: The following sections provide a summary of the ne
+  key: the following sections provide a summary of the new features and functions, enhancements and modifications
+    to the existing software, and any known issues for cprs gui v31b.
+  text: The following sections provide a summary of the new features and functions, enhancements and modifications
+    to the existing software, and any known issues for CPRS GUI v31b.
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-6b3e3b13b0
+  label: '- *CPRS Technical Manual: GUI Version*'
+  key: '- *cprs technical manual: gui version*'
+  text: '- *CPRS Technical Manual: GUI Version*'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-80a3af31e4
+  label: '**Workaround:** None'
+  key: '**workaround:** none'
+  text: '**Workaround:** None'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-829aaf71cd
+  label: '**Computerized Patient Record System (CPRS)**'
+  key: '**computerized patient record system (cprs)**'
+  text: '**Computerized Patient Record System (CPRS)**'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-8a61d41748
+  label: ICD-9-CM and ICD-10-PCS Comparison
+  key: icd-9-cm and icd-10-pcs comparison
+  text: ICD-9-CM and ICD-10-PCS Comparison
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-9382d03a44
+  label: ICD-9-CM and ICD-10-CM Comparison
+  key: icd-9-cm and icd-10-cm comparison
+  text: ICD-9-CM and ICD-10-CM Comparison
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-a4298dbdc4
+  label: Release Notes describe changes to existing softwar
+  key: release notes describe changes to existing software and new features and functions of a subsequent
+    release of software, which makes them useful as a marketing tool.
+  text: Release Notes describe changes to existing software and new features and functions of a subsequent
+    release of software, which makes them useful as a marketing tool.
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-a610dfbff2
+  label: '**Artifact Rationale**'
+  key: '**artifact rationale**'
+  text: '**Artifact Rationale**'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-c951bf38f7
+  label: For the initial distribution of software, Release
+  key: for the initial distribution of software, release notes are optional. revisions to a product that
+    involve major changes to technical specifications or end-user functionality require release notes.
+    changes to software or documentation that have a minimal impact do not require release notes. the
+    project manager, as the authoritative source and in consultation with the technical writer, determines
+    if a release notes document is a required artifact for the project.
+  text: For the initial distribution of software, Release Notes are optional. Revisions to a product that
+    involve major changes to technical specifications or end-user functionality require Release Notes.
+    Changes to software or documentation that have a minimal impact do not require Release Notes. The
+    project manager, as the authoritative source and in consultation with the technical writer, determines
+    if a Release Notes document is a required artifact for the project.
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-d6de5f39ea
+  label: 'NOTE: Existing ICD-9 functionality has not changed'
+  key: 'note: existing icd-9 functionality has not changed.'
+  text: 'NOTE: Existing ICD-9 functionality has not changed.'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-e7d4367dbd
+  label: '| ICD-9-CM                                 | ICD-1'
+  key: '| icd-9-cm | icd-10-cm | |------------------------------------------|-------------------------------------------------------------------------------|
+    | 13,000 codes (approximately) | 68,000 codes (approximately) | | 3-5 characters | 3-7 characters
+    (not including the decimal) | | character 1 is numeric or alpha (e or v) | character 1 is alpha; character
+    2 is numeric | | characters 2 - 5 are numeric | characters 3–7 are alpha or numeric (alpha characters
+    are not case sensitive) | | decimal after first 3 characters | same |'
+  text: '| ICD-9-CM                                 | ICD-10-CM                                                                     |
+
+    |------------------------------------------|-------------------------------------------------------------------------------|
+
+    | 13,000 codes (approximately)             | 68,000 codes (approximately)                                                  |
+
+    | 3-5 characters                           | 3-7 characters (not including the decimal)                                    |
+
+    | Character 1 is numeric or alpha (E or V) | Character 1 is alpha; character 2 is numeric                                  |
+
+    | Characters 2 - 5 are numeric             | Characters 3–7 are alpha or numeric (alpha characters
+    are not case sensitive) |
+
+    | Decimal after first 3 characters         | Same                                                                          |'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-ef7f8e4b36
+  label: '![](027a2a9e8dc710b1ec875ca88982ca01a9afb1692f1a03'
+  key: '![](027a2a9e8dc710b1ec875ca88982ca01a9afb1692f1a03f934030ee56497935b.emf)'
+  text: '![](027a2a9e8dc710b1ec875ca88982ca01a9afb1692f1a03f934030ee56497935b.emf)'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-f784f4927b
+  label: The classification system consists of more than 68
+  key: the classification system consists of more than 68,000 codes, compared to approximately 13,000
+    icd-9-cm codes. there are nearly 87,000 icd-10-pcs codes, while icd-9-cm has nearly 3,800 procedure
+    codes. both systems also expand the number of characters allotted from five and four respectively
+    to seven alpha-numeric characters. this value does not include the decimal point, which follows the
+    third character for the icd-10-cm code set. there is no decimal point in the icd-10-pcs code set.
+    these code sets have the potential to reveal more about quality of care, so that data can be used
+    in a more meaningful way to better understand complications, better design clinically robust algorithms,
+    and better track the outcomes of care. icd-10-cm also incorporates greater specificity and clinical
+    detail to provide information for clinical decision making and outcomes research.
+  text: The classification system consists of more than 68,000 codes, compared to approximately 13,000
+    ICD-9-CM codes. There are nearly 87,000 ICD-10-PCS codes, while ICD-9-CM has nearly 3,800 procedure
+    codes. Both systems also expand the number of characters allotted from five and four respectively
+    to seven alpha-numeric characters. This value does not include the decimal point, which follows the
+    third character for the ICD-10-CM code set. There is no decimal point in the ICD-10-PCS code set.
+    These code sets have the potential to reveal more about quality of care, so that data can be used
+    in a more meaningful way to better understand complications, better design clinically robust algorithms,
+    and better track the outcomes of care. ICD-10-CM also incorporates greater specificity and clinical
+    detail to provide information for clinical decision making and outcomes research.
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-f7da627c59
+  label: '- *CPRS User Guide: GUI Version*'
+  key: '- *cprs user guide: gui version*'
+  text: '- *CPRS User Guide: GUI Version*'
+  evidence_docs: 4
+  doc_type: RN
+- id: bp-05fdcb1054
+  label: <http://www.va.gov/vdl/>
+  key: <http://www.va.gov/vdl/>
+  text: <http://www.va.gov/vdl/>
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-10d2ec2f4a
+  label: This document targets users and administrators of
+  key: this document targets users and administrators of the cprs (or) application and applies to the
+    changes made between this release and any previous release of this software.
+  text: This document targets users and administrators of the CPRS (OR) application and applies to the
+    changes made between this release and any previous release of this software.
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-27248929b1
+  label: '- Installation Guide'
+  key: '- installation guide'
+  text: '- Installation Guide'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-4966c76972
+  label: The following sections provide a summary of the ne
+  key: the following sections provide a summary of the new features and functions added, enhancements
+    and modifications to the existing software, and any known issues for cprs v33swd.
+  text: The following sections provide a summary of the new features and functions added, enhancements
+    and modifications to the existing software, and any known issues for CPRS v33SWD.
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-4c584106a5
+  label: On January 16, 2009, the Centers for Medicare & Me
+  key: on january 16, 2009, the centers for medicare & medicaid services (cms) released a final rule for
+    replacing the 30-year-old international classification of diseases, ninth revision, clinical modification
+    (icd-9-cm) code set with international classification of diseases, tenth revision, clinical modification
+    (icd-10-cm) and international classification of diseases, tenth revision, procedure coding system
+    (icd-10-pcs) with dates of service or dates of discharge for inpatients that occur on or after the
+    icd-10 activation date.
+  text: On January 16, 2009, the Centers for Medicare & Medicaid Services (CMS) released a final rule
+    for replacing the 30-year-old International Classification of Diseases, Ninth Revision, Clinical Modification
+    (ICD-9-CM) code set with International Classification of Diseases, Tenth Revision, Clinical Modification
+    (ICD-10-CM) and International Classification of Diseases, Tenth Revision, Procedure Coding System
+    (ICD-10-PCS) with dates of service or dates of discharge for inpatients that occur on or after the
+    ICD-10 Activation Date.
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-532352ba0f
+  label: '- Deployment, Installation, Back-out, and Rollback'
+  key: '- deployment, installation, back-out, and rollback guide (dibrg).'
+  text: '- Deployment, Installation, Back-out, and Rollback Guide (DIBRG).'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-62fae3e635
+  label: 'Enter RETURN to continue or ''^'' to exit:'
+  key: 'enter return to continue or ''^'' to exit:'
+  text: 'Enter RETURN to continue or ''^'' to exit:'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-6773d4dfe1
+  label: '*(This page included for two-sided copying.)*'
+  key: '*(this page included for two-sided copying.)*'
+  text: '*(This page included for two-sided copying.)*'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-7aa8b47584
+  label: Documentation can also be found on the VA Software
+  key: 'documentation can also be found on the va software documentation library at:'
+  text: 'Documentation can also be found on the VA Software Documentation Library at:'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-804cd1e47d
+  label: '**Note:** CPRS GUI version 27 requires Internet Ex'
+  key: '**note:** cprs gui version 27 requires internet explorer 4.0 (ie4) or later. however, pki functionality
+    requires ie 5.5 or later with 128-bit encryption.'
+  text: '**Note:** CPRS GUI version 27 requires Internet Explorer 4.0 (IE4) or later. However, PKI functionality
+    requires IE 5.5 or later with 128-bit encryption.'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-812d9c55b0
+  label: 'Resolution: Developers corrected this problem.'
+  key: 'resolution: developers corrected this problem.'
+  text: 'Resolution: Developers corrected this problem.'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-85008b72cd
+  label: Below is a list of all the applications involved i
+  key: 'below is a list of all the applications involved in this project along with their patch numbers:'
+  text: 'Below is a list of all the applications involved in this project along with their patch numbers:'
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-a0db932074
+  label: Management & Financial Systems
+  key: management & financial systems
+  text: Management & Financial Systems
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-ababca6d83
+  label: ICD-10 Follow On Class 1 Software Remediation Proj
+  key: icd-10 follow on class 1 software remediation project
+  text: ICD-10 Follow On Class 1 Software Remediation Project
+  evidence_docs: 3
+  doc_type: RN
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 25
+  doc_type: TM
+- id: bp-df38f7a846
+  label: '**Technical Manual**'
+  key: '**technical manual**'
+  text: '**Technical Manual**'
+  evidence_docs: 11
+  doc_type: TM
+- id: bp-6ff7a87f3f
+  label: This manual uses several methods to highlight diff
+  key: 'this manual uses several methods to highlight different aspects of the material:'
+  text: 'This manual uses several methods to highlight different aspects of the material:'
+  evidence_docs: 8
+  doc_type: TM
+- id: bp-7d2c68219b
+  label: '- Descriptive text is presented in a proportional'
+  key: '- descriptive text is presented in a proportional font (as represented by this font).'
+  text: '- Descriptive text is presented in a proportional font (as represented by this font).'
+  evidence_docs: 8
+  doc_type: TM
+- id: bp-2b01435996
+  label: Office of Information and Technology (OI&T)
+  key: office of information and technology (oi&t)
+  text: Office of Information and Technology (OI&T)
+  evidence_docs: 7
+  doc_type: TM
+- id: bp-34f84cb79b
+  label: This manual is written with the assumption that th
+  key: 'this manual is written with the assumption that the reader is familiar with the following:'
+  text: 'This manual is written with the assumption that the reader is familiar with the following:'
+  evidence_docs: 7
+  doc_type: TM
+- id: bp-a767230522
+  label: '- M programming language'
+  key: '- m programming language'
+  text: '- M programming language'
+  evidence_docs: 7
+  doc_type: TM
+- id: bp-d979b6df07
+  label: This software was developed at the Department of V
+  key: this software was developed at the department of veterans affairs (va) by employees of the federal
+    government in the course of their official duties. pursuant to title 17 section 105 of the united
+    states code this software is *not* subject to copyright protection and is in the public domain. va
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. we would appreciate acknowledgement
+    if the software is used. this software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  text: This software was developed at the Department of Veterans Affairs (VA) by employees of the Federal
+    Government in the course of their official duties. Pursuant to title 17 Section 105 of the United
+    States Code this software is *not* subject to copyright protection and is in the public domain. VA
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. We would appreciate acknowledgement
+    if the software is used. This software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  evidence_docs: 7
+  doc_type: TM
+- id: bp-f15720cead
+  label: '--------------------------------------------------'
+  key: '------------------------------------------------------------------------------'
+  text: '------------------------------------------------------------------------------'
+  evidence_docs: 7
+  doc_type: TM
+- id: bp-0a970cd320
+  label: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+  key: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+  text: \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-16a6116a65
+  label: 'Select Systems Manager Menu Option: **programmer**'
+  key: 'select systems manager menu option: **programmer** options'
+  text: 'Select Systems Manager Menu Option: **programmer** Options'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-25be88ac0b
+  label: '--------------------------------------------------'
+  key: '-------------------------------------------------------------------------------'
+  text: '-------------------------------------------------------------------------------'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-3dc31df6a5
+  label: 'Select Programmer Options Option: **routine Tools*'
+  key: 'select programmer options option: **routine tools**'
+  text: 'Select Programmer Options Option: **routine Tools**'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-3e44224a24
+  label: The first line of each routine contains a brief de
+  key: the first line of each routine contains a brief description of the general function of the routine.
+    use the kernel option xu first line print (first line routine print) to print a list of just the first
+    line of each gmts subset routine.
+  text: The first line of each routine contains a brief description of the general function of the routine.
+    Use the Kernel option XU FIRST LINE PRINT (First Line Routine Print) to print a list of just the first
+    line of each GMTS subset routine.
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-4adf0359dd
+  label: 'XINDEX is invoked from programmer mode: D ^XINDEX.'
+  key: 'xindex is invoked from programmer mode: d ^xindex.'
+  text: 'XINDEX is invoked from programmer mode: D ^XINDEX.'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-5be59d365a
+  label: '--------------------------------------------------'
+  key: '------------------------------------------------------------------------'
+  text: '------------------------------------------------------------------------'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-70ecbd08e2
+  label: 'Want to start each routine on a new page: No// **\'
+  key: 'want to start each routine on a new page: no// **\[enter\]**'
+  text: 'Want to start each routine on a new page: No// **\[ENTER\]**'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-7420764248
+  label: 'Select Routine Tools Option: **list Routines**'
+  key: 'select routine tools option: **list routines**'
+  text: 'Select Routine Tools Option: **list Routines**'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-a2de89b822
+  label: '- Conventions for displaying TEST data in this doc'
+  key: '- conventions for displaying test data in this document are as follows:'
+  text: '- Conventions for displaying TEST data in this document are as follows:'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-ec076628ef
+  label: 'Select Routine Tools Option: **First Line Routine'
+  key: 'select routine tools option: **first line routine print**'
+  text: 'Select Routine Tools Option: **First Line Routine Print**'
+  evidence_docs: 6
+  doc_type: TM
+- id: bp-0297b80420
+  label: In addition, the following applicable data is supp
+  key: 'in addition, the following applicable data is supplied for each field in the file: field name,
+    number, title, global location, description, help prompt, cross-reference(s), input transform, date
+    last edited, and notes.'
+  text: 'In addition, the following applicable data is supplied for each field in the file: field name,
+    number, title, global location, description, help prompt, cross-reference(s), input transform, date
+    last edited, and notes.'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-24120865bd
+  label: File File DD RD WR DEL LAYGO AUDIT
+  key: file file dd rd wr del laygo
+  text: File File DD RD WR DEL LAYGO AUDIT
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-26b3c7ccbf
+  label: Setting up programmer environment
+  key: setting up programmer environment
+  text: Setting up programmer environment
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-288b4b4ed7
+  label: This FileMan option allows the user to generate do
+  key: 'this fileman option allows the user to generate documentation pertaining to files and file structure.
+    utilization of this option via the "standard" format will yield the following data dictionary information
+    for a specified file(s): file name and description, identifiers, cross-references, files pointed to
+    by the file specified, files which point to the file specified, input templates, print templates,
+    and sort templates. in addition, the following applicable data is supplied for each field in the file:
+    field name, number, title, global location, description, help prompt, cross-reference(s), input transform,
+    date last edited, and notes.'
+  text: 'This FileMan option allows the user to generate documentation pertaining to files and file structure.
+    Utilization of this option via the "Standard" format will yield the following data dictionary information
+    for a specified file(s): file name and description, identifiers, cross-references, files pointed to
+    by the file specified, files which point to the file specified, input templates, print templates,
+    and sort templates. In addition, the following applicable data is supplied for each field in the file:
+    field name, number, title, global location, description, help prompt, cross-reference(s), input transform,
+    date last edited, and notes.'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-4093206858
+  label: <u>Number</u> <u>Name</u> <u>ACCESS</u> <u>ACCESS<
+  key: <u>number</u> <u>name</u> <u>access</u> <u>access</u> <u>access</u> <u>access</u> <u>access</u>
+  text: <u>Number</u> <u>Name</u> <u>ACCESS</u> <u>ACCESS</u> <u>ACCESS</u> <u>ACCESS</u> <u>ACCESS</u>
+    <u>access</u>
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-6703eef2f8
+  label: This option analyzes the structure of a routine(s)
+  key: 'this option analyzes the structure of a routine(s) to determine in part if the routine(s) adheres
+    to vista programming standards. the xindex output may include the following components: compiled list
+    of errors and warnings, routine listing, local variables, global variables, naked globals, label references,
+    and external references. by running xindex for a specified set of routines, the user is afforded the
+    opportunity to discover any deviations from vista programming standards which exist in the selected
+    routine(s) and to see how routines interact with one another, that is, which routines call or are
+    called by other routines.'
+  text: 'This option analyzes the structure of a routine(s) to determine in part if the routine(s) adheres
+    to VistA Programming Standards. The XINDEX output may include the following components: compiled list
+    of errors and warnings, routine listing, local variables, global variables, naked globals, label references,
+    and external references. By running XINDEX for a specified set of routines, the user is afforded the
+    opportunity to discover any deviations from VistA Programming Standards which exist in the selected
+    routine(s) and to see how routines interact with one another, that is, which routines call or are
+    called by other routines.'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-74b59c88a9
+  label: 'Terminal Type set to: C-VT100'
+  key: 'terminal type set to: c-vt100'
+  text: 'Terminal Type set to: C-VT100'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-7ea9b5ccdd
+  label: 'Entering question marks at the "Select ... Option:'
+  key: entering question marks at the "select ... option:" prompt may also provide users with valuable
+    technical information. for example, a single question mark (?) lists all options which can be accessed
+    from the current option. entering two question marks (??) lists all options accessible from the current
+    one, showing the formal name and lock for each. three question marks (???) displays a brief description
+    for each option in a menu while an option name preceded by a question mark (?option) shows extended
+    help, if available, for that option.
+  text: Entering question marks at the "Select ... Option:" prompt may also provide users with valuable
+    technical information. For example, a single question mark (?) lists all options which can be accessed
+    from the current option. Entering two question marks (??) lists all options accessible from the current
+    one, showing the formal name and lock for each. Three question marks (???) displays a brief description
+    for each option in a menu while an option name preceded by a question mark (?OPTION) shows extended
+    help, if available, for that option.
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-979170f75e
+  label: XINDEX is a routine that produces a report called
+  key: xindex is a routine that produces a report called the va cross-referencer. this report is a technical
+    and cross-reference listing of one routine or a group of routines. xindex provides a summary of errors
+    and warnings for routines that do not comply with va programming standards and conventions, a list
+    of local and global variables and what routines they are referenced in, and a list of internal and
+    external routine calls.
+  text: XINDEX is a routine that produces a report called the VA Cross-Referencer. This report is a technical
+    and cross-reference listing of one routine or a group of routines. XINDEX provides a summary of errors
+    and warnings for routines that do not comply with VA programming standards and conventions, a list
+    of local and global variables and what routines they are referenced in, and a list of internal and
+    external routine calls.
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-aa2bad8b3c
+  label: VistA M Server-based software provides online help
+  key: vista m server-based software provides online help and commonly used system default prompts. users
+    are encouraged to enter question marks at any response prompt. at the end of the help display, you
+    are immediately returned to the point from which you started. this is an easy way to learn about any
+    aspect of vista m server-based software.
+  text: VistA M Server-based software provides online help and commonly used system default prompts. Users
+    are encouraged to enter question marks at any response prompt. At the end of the help display, you
+    are immediately returned to the point from which you started. This is an easy way to learn about any
+    aspect of VistA M Server-based software.
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-add095d0f5
+  label: '--------------------------------------------------'
+  key: '--------------------------------------------------------------------------------'
+  text: '--------------------------------------------------------------------------------'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-c01a939f42
+  label: '**Table of Contents**'
+  key: '**table of contents**'
+  text: '**Table of Contents**'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-c9ad40dbe6
+  label: Department of Veterans Affairs (VA)
+  key: department of veterans affairs (va)
+  text: Department of Veterans Affairs (VA)
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-d67fd10325
+  label: '- All uppercase is reserved for the representation'
+  key: '- all uppercase is reserved for the representation of m code, variable names, or the formal name
+    of options, field/file names, and security keys (e.g., the xuprogmode security key).'
+  text: '- All uppercase is reserved for the representation of M code, variable names, or the formal name
+    of options, field/file names, and security keys (e.g., the XUPROGMODE security key).'
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-ea71531d1a
+  label: Office of Enterprise Development
+  key: office of enterprise development
+  text: Office of Enterprise Development
+  evidence_docs: 5
+  doc_type: TM
+- id: bp-004d059c9d
+  label: DS Disable/Enable order dialogs
+  key: ds disable/enable order dialogs
+  text: DS Disable/Enable order dialogs
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-0070d9eba6
+  label: 'Dose: 1 1 TABLET OF amLODIPine 10MG/ATORVASTATIN 4'
+  key: 'dose: 1 1 tablet of amlodipine 10mg/atorvastatin 40mg tab \$0.2346 (non- formulary)'
+  text: 'Dose: 1 1 TABLET OF amLODIPine 10MG/ATORVASTATIN 40MG TAB \$0.2346 (non- formulary)'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-0076679100
+  label: 'DISPENSE: AMOXICILLIN 500/CLAV K 125MG TAB'
+  key: 'dispense: amoxicillin 500/clav k 125mg tab'
+  text: 'DISPENSE: AMOXICILLIN 500/CLAV K 125MG TAB'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-00dc100de5
+  label: '- For O.R. events the division is the location whe'
+  key: '- for o.r. events the division is the location where the patient will have the procedure.'
+  text: '- For O.R. events the division is the location where the patient will have the procedure.'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-01d298910b
+  label: MN Enter/edit order menus
+  key: mn enter/edit order menus
+  text: MN Enter/edit order menus
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-020c46714b
+  label: '- For admission rules, enter the admitting locatio'
+  key: '- for admission rules, enter the admitting location*.*'
+  text: '- For admission rules, enter the admitting location*.*'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-022d3da3e9
+  label: 'DISPENSE UNITS PER DOSE: 1 DOSE: **500MG** PACKAGE'
+  key: 'dispense units per dose: 1 dose: **500mg** package: **io**'
+  text: 'DISPENSE UNITS PER DOSE: 1 DOSE: **500MG** PACKAGE: **IO**'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-03824540f6
+  label: In order to make sure that there is not excessive
+  key: in order to make sure that there is not excessive system processing of extracting data, a new resource
+    device (orwg graphing resource) is included in cprs v27. it is initially set to only allow 3 processes
+    to be running at one time. the resource slots field can be changed to allow more or less processes
+    to occur.
+  text: In order to make sure that there is not excessive system processing of extracting data, a new
+    resource device (ORWG GRAPHING RESOURCE) is included in CPRS v27. It is initially set to only allow
+    3 processes to be running at one time. The Resource Slots field can be changed to allow more or less
+    processes to occur.
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-0463f4aab3
+  label: '*Included Divisions* – For multidivisional sites,'
+  key: '*included divisions* – for multidivisional sites, the specific sending divisions that are included
+    in this rule.'
+  text: '*Included Divisions* – For multidivisional sites, the specific sending divisions that are included
+    in this rule.'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-047a5aab09
+  label: 'SELECT THE TYPE OF QUICK ORDER: PS// **S System Qu'
+  key: 'select the type of quick order: ps// **s system quick orders**'
+  text: 'SELECT THE TYPE OF QUICK ORDER: PS// **S System Quick Orders**'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-04adc18709
+  label: 'ORDERABLE ITEM NAME: ACETAMINOPHEN TAB'
+  key: 'orderable item name: acetaminophen tab'
+  text: 'ORDERABLE ITEM NAME: ACETAMINOPHEN TAB'
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-04b68adbec
+  label: Documentation Conventions
+  key: documentation conventions
+  text: Documentation Conventions
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-04c822164e
+  label: For example, suppose your facility has a release e
+  key: for example, suppose your facility has a release event named “transfer to surgery icu” that releases
+    orders when a patient is transferred to the surgery icu. this release event is appropriate for most
+    of your needs; however, when a clinician writes delayed orders for a transfer to the orthopedic surgery
+    icu, you would like the clinician to be presented with a slightly different order menu. in this example,
+    you could create a child release event called “transfer to orthopedic surgery icu”. this child event
+    would share the same trigger event as its parent; however, clinicians who selected the “transfer to
+    orthopedic surgery icu” child release event would be presented with a different order menu.
+  text: For example, suppose your facility has a release event named “transfer to surgery ICU” that releases
+    orders when a patient is transferred to the surgery ICU. This release event is appropriate for most
+    of your needs; however, when a clinician writes delayed orders for a transfer to the orthopedic surgery
+    ICU, you would like the clinician to be presented with a slightly different order menu. In this example,
+    you could create a child release event called “transfer to orthopedic surgery ICU”. This child event
+    would share the same trigger event as its parent; however, clinicians who selected the “transfer to
+    orthopedic surgery ICU” child release event would be presented with a different order menu.
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-05237d01fc
+  label: 10. Select dose from above
+  key: 10. select dose from above
+  text: 10. Select dose from above
+  evidence_docs: 4
+  doc_type: TM
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 13
+  doc_type: UM
+- id: bp-5b8789c78d
+  label: Office of Information and Technology (OIT)
+  key: office of information and technology (oit)
+  text: Office of Information and Technology (OIT)
+  evidence_docs: 6
+  doc_type: UM
+- id: bp-6ff7a87f3f
+  label: This manual uses several methods to highlight diff
+  key: 'this manual uses several methods to highlight different aspects of the material:'
+  text: 'This manual uses several methods to highlight different aspects of the material:'
+  evidence_docs: 6
+  doc_type: UM
+- id: bp-7d2c68219b
+  label: '- Descriptive text is presented in a proportional'
+  key: '- descriptive text is presented in a proportional font (as represented by this font).'
+  text: '- Descriptive text is presented in a proportional font (as represented by this font).'
+  evidence_docs: 6
+  doc_type: UM
+- id: bp-c01a939f42
+  label: '**Table of Contents**'
+  key: '**table of contents**'
+  text: '**Table of Contents**'
+  evidence_docs: 6
+  doc_type: UM
+- id: bp-1da01c0ef4
+  label: '- Patient and user names are formatted as follows:'
+  key: '- patient and user names are formatted as follows:'
+  text: '- Patient and user names are formatted as follows:'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-25be88ac0b
+  label: '--------------------------------------------------'
+  key: '-------------------------------------------------------------------------------'
+  text: '-------------------------------------------------------------------------------'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-34f84cb79b
+  label: This manual is written with the assumption that th
+  key: 'this manual is written with the assumption that the reader is familiar with the following:'
+  text: 'This manual is written with the assumption that the reader is familiar with the following:'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-62fae3e635
+  label: 'Enter RETURN to continue or ''^'' to exit:'
+  key: 'enter return to continue or ''^'' to exit:'
+  text: 'Enter RETURN to continue or ''^'' to exit:'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-a2de89b822
+  label: '- Conventions for displaying TEST data in this doc'
+  key: '- conventions for displaying test data in this document are as follows:'
+  text: '- Conventions for displaying TEST data in this document are as follows:'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-a767230522
+  label: '- M programming language'
+  key: '- m programming language'
+  text: '- M programming language'
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-aa2bad8b3c
+  label: VistA M Server-based software provides online help
+  key: vista m server-based software provides online help and commonly used system default prompts. users
+    are encouraged to enter question marks at any response prompt. at the end of the help display, you
+    are immediately returned to the point from which you started. this is an easy way to learn about any
+    aspect of vista m server-based software.
+  text: VistA M Server-based software provides online help and commonly used system default prompts. Users
+    are encouraged to enter question marks at any response prompt. At the end of the help display, you
+    are immediately returned to the point from which you started. This is an easy way to learn about any
+    aspect of VistA M Server-based software.
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-c9ad40dbe6
+  label: Department of Veterans Affairs (VA)
+  key: department of veterans affairs (va)
+  text: Department of Veterans Affairs (VA)
+  evidence_docs: 5
+  doc_type: UM
+- id: bp-04b68adbec
+  label: Documentation Conventions
+  key: documentation conventions
+  text: Documentation Conventions
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-105abf853f
+  label: Obtaining Data Dictionary Listings
+  key: obtaining data dictionary listings
+  text: Obtaining Data Dictionary Listings
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-1c778358d1
+  label: '- Author’s comments are displayed in italics or as'
+  key: '- author’s comments are displayed in italics or as “callout” boxes.'
+  text: '- Author’s comments are displayed in italics or as “callout” boxes.'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-26991f5be9
+  label: How to Obtain Technical Information Online
+  key: how to obtain technical information online
+  text: How to Obtain Technical Information Online
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-27e26005c7
+  label: Enter ?? for more actions
+  key: enter ?? for more actions
+  text: Enter ?? for more actions
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-3e23e00e3c
+  label: '- *\<APPLICATION NAME/ABBREVIATION/NAMESPACE\>*PAT'
+  key: '- *\<application name/abbreviation/namespace\>*patient,*\<n\>*'
+  text: '- *\<APPLICATION NAME/ABBREVIATION/NAMESPACE\>*PATIENT,*\<N\>*'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-3ecf1b04fc
+  label: 4.  Select **All Commands** from the displayed lis
+  key: 4. select **all commands** from the displayed list.
+  text: 4.  Select **All Commands** from the displayed list.
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-4c9a4767be
+  label: 'QUEUED TO RUN ON VOLUME SET:'
+  key: 'queued to run on volume set:'
+  text: 'QUEUED TO RUN ON VOLUME SET:'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-51218a4dcb
+  label: '- *\<APPLICATION NAME/ABBREVIATION/NAMESPACE\>*USE'
+  key: '- *\<application name/abbreviation/namespace\>*user,*\<n\>*'
+  text: '- *\<APPLICATION NAME/ABBREVIATION/NAMESPACE\>*USER,*\<N\>*'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-5f69b18277
+  label: 'DEVICE FOR QUEUED JOB OUTPUT:'
+  key: 'device for queued job output:'
+  text: 'DEVICE FOR QUEUED JOB OUTPUT:'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-61728421a9
+  label: Edit Option Schedule
+  key: edit option schedule
+  text: Edit Option Schedule
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-6eccd992c2
+  label: 6.  Select/Highlight the **Back** command and sele
+  key: 6. select/highlight the **back** command and select **add** to add it to your customized toolbar.
+  text: 6.  Select/Highlight the **Back** command and select **Add** to add it to your customized toolbar.
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-9323681ccc
+  label: 2.  Select **Customize Quick Access Toolbar** from
+  key: 2. select **customize quick access toolbar** from the secondary menu.
+  text: 2.  Select **Customize Quick Access Toolbar** from the secondary menu.
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-93e94b9154
+  label: '- VistA computing environment:'
+  key: '- vista computing environment:'
+  text: '- VistA computing environment:'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-a99868f965
+  label: Documentation Navigation
+  key: documentation navigation
+  text: Documentation Navigation
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-add095d0f5
+  label: '--------------------------------------------------'
+  key: '--------------------------------------------------------------------------------'
+  text: '--------------------------------------------------------------------------------'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-b03fa234c7
+  label: 1.  Right-click anywhere on the customizable Toolb
+  key: 1. right-click anywhere on the customizable toolbar in word (*not* the ribbon section).
+  text: 1.  Right-click anywhere on the customizable Toolbar in Word (*not* the Ribbon section).
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-cd54b078ac
+  label: How to Use this Manual
+  key: how to use this manual
+  text: How to Use this Manual
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-d67fd10325
+  label: '- All uppercase is reserved for the representation'
+  key: '- all uppercase is reserved for the representation of m code, variable names, or the formal name
+    of options, field/file names, and security keys (e.g., the xuprogmode security key).'
+  text: '- All uppercase is reserved for the representation of M code, variable names, or the formal name
+    of options, field/file names, and security keys (e.g., the XUPROGMODE security key).'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-d979b6df07
+  label: This software was developed at the Department of V
+  key: this software was developed at the department of veterans affairs (va) by employees of the federal
+    government in the course of their official duties. pursuant to title 17 section 105 of the united
+    states code this software is *not* subject to copyright protection and is in the public domain. va
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. we would appreciate acknowledgement
+    if the software is used. this software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  text: This software was developed at the Department of Veterans Affairs (VA) by employees of the Federal
+    Government in the course of their official duties. Pursuant to title 17 Section 105 of the United
+    States Code this software is *not* subject to copyright protection and is in the public domain. VA
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. We would appreciate acknowledgement
+    if the software is used. This software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-f15720cead
+  label: '--------------------------------------------------'
+  key: '------------------------------------------------------------------------------'
+  text: '------------------------------------------------------------------------------'
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-feb5aecdbe
+  label: 8.  Select/Highlight the **Forward** command and s
+  key: 8. select/highlight the **forward** command and select **add** to add it to the customized toolbar.
+  text: 8.  Select/Highlight the **Forward** command and select **Add** to add it to the customized toolbar.
+  evidence_docs: 4
+  doc_type: UM
+- id: bp-0c63e651c9
+  label: Capacity and Performance Engineering (CPE)
+  key: capacity and performance engineering (cpe)
+  text: Capacity and Performance Engineering (CPE)
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-21dcc89a10
+  label: 'Select Primary Menu option: **<span class="mark">?'
+  key: 'select primary menu option: **<span class="mark">??</span>**'
+  text: 'Select Primary Menu option: **<span class="mark">??</span>**'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-3b7a5cee75
+  label: 3.  Select the drop-down arrow in the “**Choose co
+  key: 3. select the drop-down arrow in the “**choose commands from:**” box.
+  text: 3.  Select the drop-down arrow in the “**Choose commands from:**” box.
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-489859bc71
+  label: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  key: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  text: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-4aae34048a
+  label: This document uses Microsoft<sup>®</sup> Word’s bu
+  key: 'this document uses microsoft<sup>®</sup> word’s built-in navigation for internal hyperlinks. to
+    add **back** and **forward** navigation buttons to the toolbar, do the following:'
+  text: 'This document uses Microsoft<sup>®</sup> Word’s built-in navigation for internal hyperlinks.
+    To add **Back** and **Forward** navigation buttons to the toolbar, do the following:'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-594c3c0fcb
+  label: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b
+  key: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b9fdeb7b0d65a814678ffe2a2.png" title="note" style="width:0.33333in;height:0.33333in"
+    alt="note" /> **note:** callout boxes refer to labels or descriptions usually enclosed within a box,
+    which point to specific areas of a displayed image.
+  text: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b9fdeb7b0d65a814678ffe2a2.png" title="Note" style="width:0.33333in;height:0.33333in"
+    alt="Note" /> **NOTE:** Callout boxes refer to labels or descriptions usually enclosed within a box,
+    which point to specific areas of a displayed image.
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-6c4af4deb7
+  label: '- VA FileMan data structures and terminology—VistA'
+  key: '- va fileman data structures and terminology—vista m server software'
+  text: '- VA FileMan data structures and terminology—VistA M Server software'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-72f8eca254
+  label: '- Emphasis within a dialogue box is **bold** typef'
+  key: '- emphasis within a dialogue box is **bold** typeface and highlighted in blue (e.g.,<span class="mark">
+    standard listener: running</span>).'
+  text: '- Emphasis within a dialogue box is **bold** typeface and highlighted in blue (e.g.,<span class="mark"> STANDARD
+    LISTENER: RUNNING</span>).'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-7ba35a5195
+  label: VistA documentation and software can also be downl
+  key: vista documentation and software can also be downloaded from the product support (ps) anonymous
+    directories.
+  text: VistA documentation and software can also be downloaded from the Product Support (PS) Anonymous
+    Directories.
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-8848e540e3
+  label: '- Kernel—VistA M Server software'
+  key: '- kernel—vista m server software'
+  text: '- Kernel—VistA M Server software'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-89936d36f0
+  label: You can now use these **Back** and **Forward** com
+  key: you can now use these **back** and **forward** command buttons in your toolbar to navigate back
+    and forth in your word document when clicking on hyperlinks within the document.
+  text: You can now use these **Back** and **Forward** command buttons in your Toolbar to navigate back
+    and forth in your Word document when clicking on hyperlinks within the document.
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-8cfaa2fb3d
+  label: Exported VistA M Server-based software file, routi
+  key: exported vista m server-based software file, routine, and global documentation can be generated
+    using kernel, mailman, and va fileman utilities.
+  text: Exported VistA M Server-based software file, routine, and global documentation can be generated
+    using Kernel, MailMan, and VA FileMan utilities.
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-9159dc2476
+  label: <img src="27daafb47980ab9024dc7a4473402b34b6754343
+  key: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" title="caution"
+    style="width:0.44792in;height:0.44792in" alt="caution" /> disclaimer: the appearance of any external
+    hyperlink references in this manual does *not* constitute endorsement by the department of veterans
+    affairs (va) of this website or the information, products, or services contained therein. the va does
+    *not* exercise any editorial control over the information you find at these locations. such links
+    are provided and are consistent with the stated purpose of this va intranet service.'
+  text: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" title="Caution"
+    style="width:0.44792in;height:0.44792in" alt="Caution" /> DISCLAIMER: The appearance of any external
+    hyperlink references in this manual does *not* constitute endorsement by the Department of Veterans
+    Affairs (VA) of this Website or the information, products, or services contained therein. The VA does
+    *not* exercise any editorial control over the information you find at these locations. Such links
+    are provided and are consistent with the stated purpose of this VA Intranet Service.'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-963d1c9a27
+  label: '- References to “**\<Enter\>**” within these snaps'
+  key: '- references to “**\<enter\>**” within these snapshots indicate that the user should press the
+    **enter** key on the keyboard. other special keys are represented within **\< \>** angle brackets.
+    for example, pressing the **pf1** key can be represented as pressing **\<pf1\>**.'
+  text: '- References to “**\<Enter\>**” within these snapshots indicate that the user should press the
+    **Enter** key on the keyboard. Other special keys are represented within **\< \>** angle brackets.
+    For example, pressing the **PF1** key can be represented as pressing **\<PF1\>**.'
+  evidence_docs: 3
+  doc_type: UM
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 5
+  doc_type: UG
+- id: bp-95a410bd43
+  label: Per the Veteran-focused Integrated Process (VIP) G
+  key: per the veteran-focused integrated process (vip) guide, the user’s guide is required to be completed
+    prior to critical decision point \#2 (cd2), with the expectation that it will be updated as needed.
+    a user guide is a technical communication document intended to give assistance to people using a particular
+    system, such as vista end users. it is usually written by a technical writer, although it can also
+    be written by programmers, product or project managers, or other technical staff. most user guides
+    contain both a written guide and the associated images. in the case of computer applications, it is
+    usual to include screenshots of the human-machine interfaces, and hardware manuals often include clear,
+    simplified diagrams. the language used is matched to the intended audience, with jargon kept to a
+    minimum or explained thoroughly. the user guide is a mandatory, build-level document, and should be
+    updated to reflect the contents of the most recently deployed build. the sections documented herein
+    are required if applicable to your product.
+  text: Per the Veteran-focused Integrated Process (VIP) Guide, the User’s Guide is required to be completed
+    prior to Critical Decision Point \#2 (CD2), with the expectation that it will be updated as needed.
+    A User Guide is a technical communication document intended to give assistance to people using a particular
+    system, such as VistA end users. It is usually written by a technical writer, although it can also
+    be written by programmers, product or project managers, or other technical staff. Most user guides
+    contain both a written guide and the associated images. In the case of computer applications, it is
+    usual to include screenshots of the human-machine interfaces, and hardware manuals often include clear,
+    simplified diagrams. The language used is matched to the intended audience, with jargon kept to a
+    minimum or explained thoroughly. The User Guide is a mandatory, build-level document, and should be
+    updated to reflect the contents of the most recently deployed build. The sections documented herein
+    are required if applicable to your product.
+  evidence_docs: 4
+  doc_type: UG
+- id: bp-6884958896
+  label: '**How to use this manual**'
+  key: '**how to use this manual**'
+  text: '**How to use this manual**'
+  evidence_docs: 3
+  doc_type: UG
+- id: bp-9c8da4a7d0
+  label: 'Select one of the following:'
+  key: 'select one of the following:'
+  text: 'Select one of the following:'
+  evidence_docs: 3
+  doc_type: UG
+- id: bp-a767230522
+  label: '- M programming language'
+  key: '- m programming language'
+  text: '- M programming language'
+  evidence_docs: 7
+  doc_type: DG
+- id: bp-1c778358d1
+  label: '- Author’s comments are displayed in italics or as'
+  key: '- author’s comments are displayed in italics or as “callout” boxes.'
+  text: '- Author’s comments are displayed in italics or as “callout” boxes.'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-58d64408c4
+  label: '- Information Security Officers (ISOs)—Personnel a'
+  key: '- information security officers (isos)—personnel at va sites responsible for system security.'
+  text: '- Information Security Officers (ISOs)—Personnel at VA sites responsible for system security.'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-7d2c68219b
+  label: '- Descriptive text is presented in a proportional'
+  key: '- descriptive text is presented in a proportional font (as represented by this font).'
+  text: '- Descriptive text is presented in a proportional font (as represented by this font).'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-83ceba8463
+  label: <img src="27daafb47980ab9024dc7a4473402b34b6754343
+  key: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" style="width:0.44792in;height:0.44792in"
+    /> disclaimer: the appearance of any external hyperlink references in this manual does *not* constitute
+    endorsement by the department of veterans affairs (va) of this website or the information, products,
+    or services contained therein. the va does *not* exercise any editorial control over the information
+    you find at these locations. such links are provided and are consistent with the stated purpose of
+    this va intranet service.'
+  text: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" style="width:0.44792in;height:0.44792in"
+    /> DISCLAIMER: The appearance of any external hyperlink references in this manual does *not* constitute
+    endorsement by the Department of Veterans Affairs (VA) of this Website or the information, products,
+    or services contained therein. The VA does *not* exercise any editorial control over the information
+    you find at these locations. Such links are provided and are consistent with the stated purpose of
+    this VA Intranet Service.'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-93e94b9154
+  label: '- VistA computing environment:'
+  key: '- vista computing environment:'
+  text: '- VistA computing environment:'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-963d1c9a27
+  label: '- References to “**\<Enter\>**” within these snaps'
+  key: '- references to “**\<enter\>**” within these snapshots indicate that the user should press the
+    **enter** key on the keyboard. other special keys are represented within **\< \>** angle brackets.
+    for example, pressing the **pf1** key can be represented as pressing **\<pf1\>**.'
+  text: '- References to “**\<Enter\>**” within these snapshots indicate that the user should press the
+    **Enter** key on the keyboard. Other special keys are represented within **\< \>** angle brackets.
+    For example, pressing the **PF1** key can be represented as pressing **\<PF1\>**.'
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-aa2bad8b3c
+  label: VistA M Server-based software provides online help
+  key: vista m server-based software provides online help and commonly used system default prompts. users
+    are encouraged to enter question marks at any response prompt. at the end of the help display, you
+    are immediately returned to the point from which you started. this is an easy way to learn about any
+    aspect of vista m server-based software.
+  text: VistA M Server-based software provides online help and commonly used system default prompts. Users
+    are encouraged to enter question marks at any response prompt. At the end of the help display, you
+    are immediately returned to the point from which you started. This is an easy way to learn about any
+    aspect of VistA M Server-based software.
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-c9ad40dbe6
+  label: Department of Veterans Affairs (VA)
+  key: department of veterans affairs (va)
+  text: Department of Veterans Affairs (VA)
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-d979b6df07
+  label: This software was developed at the Department of V
+  key: this software was developed at the department of veterans affairs (va) by employees of the federal
+    government in the course of their official duties. pursuant to title 17 section 105 of the united
+    states code this software is *not* subject to copyright protection and is in the public domain. va
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. we would appreciate acknowledgement
+    if the software is used. this software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  text: This software was developed at the Department of Veterans Affairs (VA) by employees of the Federal
+    Government in the course of their official duties. Pursuant to title 17 Section 105 of the United
+    States Code this software is *not* subject to copyright protection and is in the public domain. VA
+    assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed
+    or implied, about its quality, reliability, or any other characteristic. We would appreciate acknowledgement
+    if the software is used. This software can be redistributed and/or modified freely provided that any
+    derivative works bear some notice that they are derived from it, and any modified versions bear some
+    notice that they have been modified.
+  evidence_docs: 6
+  doc_type: DG
+- id: bp-04b68adbec
+  label: Documentation Conventions
+  key: documentation conventions
+  text: Documentation Conventions
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-06c51b1c9b
+  label: <img src="27daafb47980ab9024dc7a4473402b34b6754343
+  key: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" style="width:0.44792in;height:0.44792in"
+    /> caution: to protect the security of vista systems, distribution of this software for use on any
+    other computer system by vista sites is prohibited. all requests for copies of kernel for *non*-vista
+    use should be referred to the vista site’s local office of information field office (oifo).'
+  text: '<img src="27daafb47980ab9024dc7a4473402b34b67543437b40b475e4369ba39619bb05.png" style="width:0.44792in;height:0.44792in"
+    /> CAUTION: To protect the security of VistA systems, distribution of this software for use on any
+    other computer system by VistA sites is prohibited. All requests for copies of Kernel for *non*-VistA
+    use should be referred to the VistA site’s local Office of Information Field Office (OIFO).'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-105abf853f
+  label: Obtaining Data Dictionary Listings
+  key: obtaining data dictionary listings
+  text: Obtaining Data Dictionary Listings
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-1da01c0ef4
+  label: '- Patient and user names are formatted as follows:'
+  key: '- patient and user names are formatted as follows:'
+  text: '- Patient and user names are formatted as follows:'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-26991f5be9
+  label: How to Obtain Technical Information Online
+  key: how to obtain technical information online
+  text: How to Obtain Technical Information Online
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-34f84cb79b
+  label: This manual is written with the assumption that th
+  key: 'this manual is written with the assumption that the reader is familiar with the following:'
+  text: 'This manual is written with the assumption that the reader is familiar with the following:'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-5b8789c78d
+  label: Office of Information and Technology (OIT)
+  key: office of information and technology (oit)
+  text: Office of Information and Technology (OIT)
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-6c4af4deb7
+  label: '- VA FileMan data structures and terminology—VistA'
+  key: '- va fileman data structures and terminology—vista m server software'
+  text: '- VA FileMan data structures and terminology—VistA M Server software'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-6ff7a87f3f
+  label: This manual uses several methods to highlight diff
+  key: 'this manual uses several methods to highlight different aspects of the material:'
+  text: 'This manual uses several methods to highlight different aspects of the material:'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-8848e540e3
+  label: '- Kernel—VistA M Server software'
+  key: '- kernel—vista m server software'
+  text: '- Kernel—VistA M Server software'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-c9bd2d24d8
+  label: Technical information about VistA M Server-based f
+  key: technical information about vista m server-based files and the fields in files is stored in data
+    dictionaries (dd). you can use the **list file attributes** \[dilist\] option on the **data dictionary
+    utilities** \[di ddu\] menu in va fileman to print formatted data dictionaries.
+  text: Technical information about VistA M Server-based files and the fields in files is stored in data
+    dictionaries (DD). You can use the **List File Attributes** \[DILIST\] option on the **Data Dictionary
+    Utilities** \[DI DDU\] menu in VA FileMan to print formatted data dictionaries.
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-cbeec1c0c4
+  label: Documentation Disclaimer
+  key: documentation disclaimer
+  text: Documentation Disclaimer
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-ccf023df86
+  label: 'Table 1: Documentation Symbol Descriptions'
+  key: 'table 1: documentation symbol descriptions'
+  text: 'Table 1: Documentation Symbol Descriptions'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-cd54b078ac
+  label: How to Use this Manual
+  key: how to use this manual
+  text: How to Use this Manual
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-fdc3cfc7b2
+  label: '- The first three digits (prefix) of any Social Se'
+  key: '- the first three digits (prefix) of any social security numbers (ssn) begin with either “**000**”
+    or “**666**”.'
+  text: '- The first three digits (prefix) of any Social Security Numbers (SSN) begin with either “**000**”
+    or “**666**”.'
+  evidence_docs: 5
+  doc_type: DG
+- id: bp-2c11b7dfc7
+  label: '- Rectangular brackets **\[** **\]** around a para'
+  key: '- rectangular brackets **\[** **\]** around a parameter are used to indicate that passing the
+    parameter is optional. rectangular brackets around a leading period **\[.\]** in front of a parameter
+    indicate that you can optionally pass that parameter by reference.'
+  text: '- Rectangular brackets **\[** **\]** around a parameter are used to indicate that passing the
+    parameter is optional. Rectangular brackets around a leading period **\[.\]** in front of a parameter
+    indicate that you can optionally pass that parameter by reference.'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-3d778bd0f2
+  label: '- Descriptions of direct mode utilities are prefac'
+  key: '- descriptions of direct mode utilities are prefaced with the standard m “**\>**” prompt to emphasize
+    that the call is to be used *only in direct mode*. they also include the m command used to invoke
+    the utility. the following is an example:'
+  text: '- Descriptions of direct mode utilities are prefaced with the standard M “**\>**” prompt to emphasize
+    that the call is to be used *only in direct mode*. They also include the M command used to invoke
+    the utility. The following is an example:'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-5738157660
+  label: '- *\<Application Name/Abbreviation/Namespace\>* is'
+  key: '- *\<application name/abbreviation/namespace\>* is defined in the approved application abbreviations
+    document.'
+  text: '- *\<Application Name/Abbreviation/Namespace\>* is defined in the Approved Application Abbreviations
+    document.'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-72a3583572
+  label: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b
+  key: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b9fdeb7b0d65a814678ffe2a2.png" style="width:0.29167in;height:0.3125in"
+    /> **ref:** for details about obtaining data dictionaries and about the formats available, see the
+    “list file attributes” section in the “file management” section in the *va fileman advanced user manual*.
+  text: <img src="a0e627d135d9e77cef16c2e3914ac591fc77493b9fdeb7b0d65a814678ffe2a2.png" style="width:0.29167in;height:0.3125in"
+    /> **REF:** For details about obtaining data dictionaries and about the formats available, see the
+    “List File Attributes” section in the “File Management” section in the *VA FileMan Advanced User Manual*.
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-7d809af841
+  label: '- Various symbols are used throughout the document'
+  key: '- various symbols are used throughout the documentation to alert the reader to special information.
+    <u>table 1</u> gives a description of each of these symbols:'
+  text: '- Various symbols are used throughout the documentation to alert the reader to special information.
+    <u>Table 1</u> gives a description of each of these symbols:'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-afa1e1b8ec
+  label: '- Product Support (PS).'
+  key: '- product support (ps).'
+  text: '- Product Support (PS).'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-b9d5e67343
+  label: '- System Administrators—System administrators at D'
+  key: '- system administrators—system administrators at department of veterans affairs (va) sites who
+    are responsible for computer management and system security on the vista m servers.'
+  text: '- System Administrators—System administrators at Department of Veterans Affairs (VA) sites who
+    are responsible for computer management and system security on the VistA M Servers.'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-f38fdb1c1c
+  label: '- *\<N\>* represents the first name as a number sp'
+  key: '- *\<n\>* represents the first name as a number spelled out and incremented with each new entry.'
+  text: '- *\<N\>* represents the first name as a number spelled out and incremented with each new entry.'
+  evidence_docs: 4
+  doc_type: DG
+- id: bp-000e95579b
+  label: │ ├ RpcResponseTypeIsNotXmlException
+  key: │ ├ rpcresponsetypeisnotxmlexception
+  text: │ ├ RpcResponseTypeIsNotXmlException
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-002bc10b76
+  label: The VistaKernelHash utility class implements a two
+  key: the vistakernelhash utility class implements a two-way hash via two static methods, encrypt and
+    decrypt. these provide the encoding and obfuscation algorithms used by the rpc broker and kernel to
+    encode and decode data strings.
+  text: The VistaKernelHash utility class implements a two-way hash via two static methods, encrypt and
+    decrypt. These provide the encoding and obfuscation algorithms used by the RPC Broker and Kernel to
+    encode and decode data strings.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-002d9f4218
+  label: VistALink communications with M can also produce e
+  key: vistalink communications with m can also produce exceptions that originate from the m side. in
+    those cases a fault message is sent back to vistalink from m. fault messages are parsed and gov.va.med.vistalink.adapter.record.vistalinkfaultexception
+    that extends foundationsexception are constructed to be thrown in those cases.
+  text: VistALink communications with M can also produce exceptions that originate from the M side. In
+    those cases a Fault message is sent back to VistALink from M. Fault messages are parsed and gov.va.med.vistalink.adapter.record.VistaLinkFaultException
+    that extends FoundationsException are constructed to be thrown in those cases.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0143f197a5
+  label: This class contains a number of static utility met
+  key: this class contains a number of static utility methods to help developers work with xml documents,
+    nodes, attributes and strings. these utilities are xml-parser independent.
+  text: This class contains a number of static utility methods to help developers work with XML documents,
+    nodes, attributes and strings. These utilities are XML-parser independent.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-031c31557c
+  label: The high-level steps to establish a VistALink conn
+  key: 'the high-level steps to establish a vistalink connection to m in j2se mode are:'
+  text: 'The high-level steps to establish a VistALink connection to M in J2SE mode are:'
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0418e78db8
+  label: By default, the implementation class VistaLinkRequ
+  key: by default, the implementation class vistalinkrequestretrystrategyallow is set as the retry strategy
+    for a request. its single method, execute(), returns “true,” causing vistalink to attempt to obtain
+    a new connection and retry the request, exactly once.
+  text: By default, the implementation class VistaLinkRequestRetryStrategyAllow is set as the retry strategy
+    for a request. Its single method, execute(), returns “true,” causing VistALink to attempt to obtain
+    a new connection and retry the request, exactly once.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-04ce65a64b
+  label: '- public void log(String message): Since the logge'
+  key: '- public void log(string message): since the logger can be passed into the constructor and the
+    output pattern for a specific logger can be configured using the log4j configuration file, there should
+    be no need to pass info message. instead, different loggers should be used.'
+  text: '- public void log(String message): Since the logger can be passed into the constructor and the
+    output pattern for a specific logger can be configured using the log4j configuration file, there should
+    be no need to pass info message. Instead, different loggers should be used.'
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0582e3e5ce
+  label: For the current patch history related to this soft
+  key: for the current patch history related to this software, see the patch module on forum.
+  text: For the current patch history related to this software, see the Patch Module on FORUM.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-059f2a1daa
+  label: It contains a JAAS principal (user entity), which
+  key: 'it contains a jaas principal (user entity), which holds:'
+  text: 'It contains a JAAS principal (user entity), which holds:'
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-064a9f0d0a
+  label: <span class="mark">if (vReq.isXmlResponse()) {</sp
+  key: <span class="mark">if (vreq.isxmlresponse()) {</span>
+  text: <span class="mark">if (vReq.isXmlResponse()) {</span>
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-064bfa33a7
+  label: <span class="mark">**public** **static** **void**
+  key: <span class="mark">**public** **static** **void** main(string\[\] args) {</span>
+  text: <span class="mark">**public** **static** **void** main(String\[\] args) {</span>
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0777983eed
+  label: The tables below describe the VistALink utility me
+  key: the tables below describe the vistalink utility methods and variables.
+  text: The tables below describe the VistALink utility methods and variables.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0789e1f6e1
+  label: '- Execute code on an M server'
+  key: '- execute code on an m server'
+  text: '- Execute code on an M server'
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0815d93bb0
+  label: InstitutionMappingDelegate.getJndiConnectorNameFor
+  key: institutionmappingdelegate.getjndiconnectornameforinstitution(
+  text: InstitutionMappingDelegate.getJndiConnectorNameForInstitution(
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-08f0ff85d8
+  label: A JAAS-compliant login module contains all of the
+  key: a jaas-compliant login module contains all of the logic required to authenticate a user to a given
+    system. the login module class does not itself, however, include the user interface to gather authentication
+    credentials (e.g., access and verify codes) from the end-user. instead, a set of jaas-compliant callbacks,
+    along with a jaas-compliant callback handler, are used to de-couple the user interface from the login
+    module. vistalink provides a jaas-compatible login module and jaas-compliant callbacks and callback
+    handlers to perform a vista login.
+  text: A JAAS-compliant login module contains all of the logic required to authenticate a user to a given
+    system. The login module class does not itself, however, include the user interface to gather authentication
+    credentials (e.g., access and verify codes) from the end-user. Instead, a set of JAAS-compliant callbacks,
+    along with a JAAS-compliant callback handler, are used to de-couple the user interface from the login
+    module. VistALink provides a JAAS-compatible login module and JAAS-compliant callbacks and callback
+    handlers to perform a VistA login.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-09414f023b
+  label: The second parameter is useful if the text is to b
+  key: the second parameter is useful if the text is to be passed in a cdata section of an xml message.
+    if this parameter is set to true, the returned encoded strings will contain neither "\]\]\>" nor "\<\![cdata\[".
+    otherwise, it is possible a returned encoding may contain those character sequences. if, in a reasonable
+    number of tries, an encoded string cannot be created without these cdata boundaries, an exception
+    is thrown of type vistakernelhashcountlimitexceededexception.
+  text: The second parameter is useful if the text is to be passed in a CDATA section of an XML message.
+    If this parameter is set to true, the returned encoded strings will contain neither "\]\]\>" nor "\<\![CDATA\[".
+    Otherwise, it is possible a returned encoding may contain those character sequences. If, in a reasonable
+    number of tries, an encoded string cannot be created without these CDATA boundaries, an exception
+    is thrown of type VistaKernelHashCountLimitExceededException.
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-09c80ab796
+  label: <span class="mark">If you are re-using a request o
+  key: <span class="mark">if you are re-using a request object for additional requests, you can change
+    the rpc name with this method:</span>
+  text: <span class="mark">If you are re-using a request object for additional requests, you can change
+    the RPC Name with this method:</span>
+  evidence_docs: 3
+  doc_type: DG
+- id: bp-0044b22809
+  label: DRCT = Drug Cost of Refill
+  key: drct = drug cost of refill
+  text: DRCT = Drug Cost of Refill
+  evidence_docs: 4
+  doc_type: API
+- id: bp-00537846b0
+  label: 'CLN = Clinic; variable format A;B where:'
+  key: 'cln = clinic; variable format a;b where: a = internal pointer b = external printable form. data
+    comes from the hospital location file (#44) rxp = rx patient status; variable format a;b where: a
+    = internal pointer and b = external printable form m/w = mail/window routing; variable format a;b
+    where: a = code b = external printable form div = pointer to the outpatient site file (#59) oerr#
+    = order number; points to the order file (#100)'
+  text: "CLN = Clinic; variable format A;B where:  \nA = internal pointer  \nB = external printable form.\
+    \ Data comes from the HOSPITAL  \nLOCATION file (#44)  \nRXP = Rx Patient Status; variable format\
+    \ A;B where:  \nA = internal pointer and  \nB = external printable form  \nM/W = Mail/Window Routing;\
+    \ variable format A;B where:  \nA = code  \nB = external printable form  \nDIV = Pointer to the OUTPATIENT\
+    \ SITE file (#59)  \nOERR# = Order number; points to the ORDER file (#100)"
+  evidence_docs: 4
+  doc_type: API
+- id: bp-006163cfd2
+  label: 0 = No, do not override the value in the EXCLUDE F
+  key: 0 = no, do not override the value in the exclude from dosage checks field (#11) of the dosage form
+    file (#50.606)
+  text: 0 = No, do not override the value in the EXCLUDE FROM DOSAGE CHECKS field (#11) of the DOSAGE
+    FORM file (#50.606)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-007dfec18d
+  label: ^TMP(\$J,LIST,PSSIEN,"QCODE",PSS(1),5) = ADMINISTR
+  key: ^tmp(\$j,list,pssien,"qcode",pss(1),5) = administration times (52.61,5)
+  text: ^TMP(\$J,LIST,PSSIEN,"QCODE",PSS(1),5) = ADMINISTRATION TIMES (52.61,5)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-00b8f43625
+  label: ^TMP(\$J,LIST,DFN,IEN,"RF",n,8)=DIVISION (52.1,8)
+  key: ^tmp(\$j,list,dfn,ien,"rf",n,8)=division (52.1,8) ^name (59,.01)
+  text: ^TMP(\$J,LIST,DFN,IEN,"RF",n,8)=DIVISION (52.1,8) ^NAME (59,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-00d9251bb1
+  label: ^TMP(\$J,LIST,PSSIEN,"AL",PSS(1),2) = INITIATOR OF
+  key: ^tmp(\$j,list,pssien,"al",pss(1),2) = initiator of activity (50.0214,2)^ name(200,.01)
+  text: ^TMP(\$J,LIST,PSSIEN,"AL",PSS(1),2) = INITIATOR OF ACTIVITY (50.0214,2)^ NAME(200,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-00ee43b37c
+  label: VA PRODUCT IDENTIFIER = 5-character CMOP ID
+  key: va product identifier = 5-character cmop id
+  text: VA PRODUCT IDENTIFIER = 5-character CMOP ID
+  evidence_docs: 4
+  doc_type: API
+- id: bp-010cb6fc58
+  label: n = the IEN of entry in the Medication Instruction
+  key: n = the ien of entry in the medication instruction (sig) multiple
+  text: n = the IEN of entry in the Medication Instruction (SIG) multiple
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0168dbdb18
+  label: \#50.68 *See* VA PRODUCT file
+  key: \#50.68 *see* va product file
+  text: \#50.68 *See* VA PRODUCT file
+  evidence_docs: 4
+  doc_type: API
+- id: bp-016ef40d07
+  label: '- Inpatient Pharmacy Automatic Replenishment/Ward'
+  key: '- inpatient pharmacy automatic replenishment/ward stock (ar/ws)'
+  text: '- Inpatient Pharmacy Automatic Replenishment/Ward Stock (AR/WS)'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-016f7045c3
+  label: 0 = not a valid VA Generic Name or Valid Trade nam
+  key: 0 = not a valid va generic name or valid trade name
+  text: 0 = not a valid VA Generic Name or Valid Trade name
+  evidence_docs: 4
+  doc_type: API
+- id: bp-01773164da
+  label: ^TMP(\$J,LIST,PSSIEN,24) = PACKAGE TYPE (50,24)^NA
+  key: ^tmp(\$j,list,pssien,24) = package type (50,24)^name (50.608,.01)
+  text: ^TMP(\$J,LIST,PSSIEN,24) = PACKAGE TYPE (50,24)^NAME (50.608,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-019276cdc6
+  label: ^TMP(\$J,LIST,PSSIEN,"SYN",PSS(1),404) = PRICE PER
+  key: ^tmp(\$j,list,pssien,"syn",pss(1),404) = price per dispense unit (50.1,404)
+  text: ^TMP(\$J,LIST,PSSIEN,"SYN",PSS(1),404) = PRICE PER DISPENSE UNIT (50.1,404)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-019c1f5e0f
+  label: PSSFT = NAME field (#.01) of the ADMINISTRATION SC
+  key: pssft = name field (#.01) of the administration schedule file (#51.1) (a value of "??" may be used)
+    \[optional\]
+  text: PSSFT = NAME field (#.01) of the ADMINISTRATION SCHEDULE file (#51.1) (a value of "??" may be
+    used) \[optional\]
+  evidence_docs: 4
+  doc_type: API
+- id: bp-01b8f1fc02
+  label: Returns the set of codes as defined by VA FileMan
+  key: returns the set of codes as defined by va fileman data retrieval call field^did to the array defined
+    by the calling application. this api is restricted to only the status field (#28) in the unit dose
+    sub-file (#55.06), status field (#100) in the iv sub-file (#55.01), and the status field (#5) in the
+    non-va meds sub-file (#55.05) of the pharmacy patient file (#55).
+  text: Returns the set of codes as defined by VA FileMan Data Retrieval call FIELD^DID to the array defined
+    by the calling application. This API is restricted to only the STATUS field (#28) in the UNIT DOSE
+    sub-file (#55.06), STATUS field (#100) in the IV sub-file (#55.01), and the STATUS field (#5) in the
+    NON-VA MEDS sub-file (#55.05) of the PHARMACY PATIENT file (#55).
+  evidence_docs: 4
+  doc_type: API
+- id: bp-01e6009554
+  label: ^TMP(\$J,LIST,PSSIEN,49.99)=OUTPATIENT VERSION (59
+  key: ^tmp(\$j,list,pssien,49.99)=outpatient version (59.7,49.99)
+  text: ^TMP(\$J,LIST,PSSIEN,49.99)=OUTPATIENT VERSION (59.7,49.99)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-020bc3b956
+  label: 0 = there are no National formulary restrictions
+  key: 0 = there are no national formulary restrictions
+  text: 0 = there are no National formulary restrictions
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0220409c31
+  label: PSNING2 = DRUG IDENTIFIER (50.4161,.01) associated
+  key: psning2 = drug identifier (50.4161,.01) associated with ingredient 2 \[required\]
+  text: PSNING2 = DRUG IDENTIFIER (50.4161,.01) associated with INGREDIENT 2 \[required\]
+  evidence_docs: 4
+  doc_type: API
+- id: bp-022d84b608
+  label: ^TMP(\$J,LIST,PSSIEN,12) = INACTIVATION DATE (52.6
+  key: '^tmp(\$j,list,pssien,12) = inactivation date (52.6,12)^external format (ex: sep 12,1999)'
+  text: '^TMP(\$J,LIST,PSSIEN,12) = INACTIVATION DATE (52.6,12)^External format (ex: SEP 12,1999)'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-02dee28c94
+  label: DIV = pointer to the OUTPATIENT SITE file (#59)
+  key: div = pointer to the outpatient site file (#59)
+  text: DIV = pointer to the OUTPATIENT SITE file (#59)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-03273e7606
+  label: '> Note**:** This API has defined one entry point b'
+  key: '> note**:** this api has defined one entry point by parameter passing, to return data from available
+    data nodes from the prescription file (#52). the variable “node” shall be passed null or as a string
+    of data separated by commas. every field from the prescription file (#52) shall not be returned, though
+    the string must be defined to contain some or all of the following: 0, 2, 3, r, i, p, o, <span id="cprs"
+    class="anchor"></span>t, l, s, m, c, a, icd, cprs,st. each section describes what is returned by each
+    string variable. trade name field (#6.5) (piece 1 of the “tn” node), from the prescription file (#52)
+    that is associated with drug name field (#6) will be returned as part of the 0 node data, if populated.
+    the status and “b” cross-reference of **<u>valid</u>** prescriptions is always returned. > > 0 - returns
+    the zero node > > 2 - returns the zero and two nodes'
+  text: '> Note**:** This API has defined one entry point by parameter passing, to return data from available
+    data nodes from the PRESCRIPTION file (#52). The variable “NODE” shall be passed null or as a string
+    of data separated by commas. Every field from the PRESCRIPTION file (#52) shall not be returned, though
+    the string must be defined to contain some or all of the following: 0, 2, 3, R, I, P, O, <span id="CPRS"
+    class="anchor"></span>T, L, S, M, C, A, ICD, CPRS,ST. Each section describes what is returned by each
+    string variable. TRADE NAME field (#6.5) (piece 1 of the “TN” node), from the PRESCRIPTION file (#52)
+    that is associated with DRUG NAME field (#6) will be returned as part of the 0 node data, if populated.
+    The status and “B” cross-reference of **<u>valid</u>** prescriptions is always returned.
+
+    >
+
+    > 0 - returns the Zero node
+
+    >
+
+    > 2 - returns the Zero and Two nodes'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0328f589ac
+  label: WRT^PSS781(PSSDFN,PSSSTAT,LIST)
+  key: wrt^pss781(pssdfn,pssstat,list)
+  text: WRT^PSS781(PSSDFN,PSSSTAT,LIST)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-03c7bcc280
+  label: ^TMP(\$J,LIST,PSSIEN,3) = VERB (50.606,3)
+  key: ^tmp(\$j,list,pssien,3) = verb (50.606,3)
+  text: ^TMP(\$J,LIST,PSSIEN,3) = VERB (50.606,3)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0407c8239d
+  label: M/W = Mail/Window Routing; variable format A;B whe
+  key: 'm/w = mail/window routing; variable format a;b where: a = code b = external printable form'
+  text: "M/W = Mail/Window Routing; variable format A;B where:  \nA = code  \nB = external printable form"
+  evidence_docs: 4
+  doc_type: API
+- id: bp-041959ac23
+  label: ^TMP(\$J,LIST,PSOIEN,4)=REFILLS(53,4)
+  key: ^tmp(\$j,list,psoien,4)=refills(53,4)
+  text: ^TMP(\$J,LIST,PSOIEN,4)=REFILLS(53,4)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0421ecd08c
+  label: ^TMP(\$J,LIST,PSNIEN,3) = UNITS (50.68,3)^NAME (50
+  key: ^tmp(\$j,list,psnien,3) = units (50.68,3)^name (50.607,.01)
+  text: ^TMP(\$J,LIST,PSNIEN,3) = UNITS (50.68,3)^NAME (50.607,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0430bb6dce
+  label: 0 (zero) = entry was unsuccessful
+  key: 0 (zero) = entry was unsuccessful
+  text: 0 (zero) = entry was unsuccessful
+  evidence_docs: 4
+  doc_type: API
+- id: bp-044590cbbc
+  label: A is the internal pointer and
+  key: a is the internal pointer and
+  text: A is the internal pointer and
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0499842746
+  label: C - returns CMOP data
+  key: c - returns cmop data
+  text: C - returns CMOP data
+  evidence_docs: 4
+  doc_type: API
+- id: bp-04abf8bcb4
+  label: ^TMP(\$J,LIST,PSSIEN,17.1) = EXPIRATION DATE (50,1
+  key: ^tmp(\$j,list,pssien,17.1) = expiration date (50,17.1)
+  text: ^TMP(\$J,LIST,PSSIEN,17.1) = EXPIRATION DATE (50,17.1)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-04b95c295e
+  label: '> ^TMP(\$J,LIST,0)=1 for successful return of data'
+  key: '> ^tmp(\$j,list,0)=1 for successful return of data or -1^no data found > > ^tmp(\$j,list,dfn,53)=clozapine
+    registration number (53) > > ^tmp(\$j,list,dfn,54)=clozapine status (54)^external format for the set
+    of codes > > ^tmp(\$j,list,dfn,55)=date of last clozapine rx (55)^external format (ex: sep. 12, 1999)
+    > > ^tmp(\$j,list,dfn,56)=demographics sent (56)^external format for the set of codes > > ^tmp(\$j,list,dfn,57)=responsible
+    provider (pointer value) (57)^name (200,.01) > > ^tmp(\$j,list,dfn,58)=registration date (58)^external
+    format (ex: sep. 12, 1999)'
+  text: '> ^TMP(\$J,LIST,0)=1 for successful return of data or -1^NO DATA FOUND
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,53)=CLOZAPINE REGISTRATION NUMBER (53)
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,54)=CLOZAPINE STATUS (54)^External Format for the Set of Codes
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,55)=DATE OF LAST CLOZAPINE RX (55)^External Format (ex: Sep. 12, 1999)
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,56)=DEMOGRAPHICS SENT (56)^External Format for the Set of Codes
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,57)=RESPONSIBLE PROVIDER (pointer value) (57)^NAME (200,.01)
+
+    >
+
+    > ^TMP(\$J,LIST,DFN,58)=REGISTRATION DATE (58)^External Format (ex: Sep. 12, 1999)'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0504ca6f52
+  label: See VA FileMan Programmer Manual for FILE^DICN cal
+  key: see va fileman programmer manual for file^dicn call, for dic, da, x, dinum, and dlaygo input definitions
+  text: See VA FileMan Programmer Manual for FILE^DICN call, for DIC, DA, X, DINUM, and DLAYGO input definitions
+  evidence_docs: 4
+  doc_type: API
+- id: bp-05dc659a0f
+  label: ^TMP(\$J,LIST,PSSIEN,"SYN",PSS(1),.01) = SYNONYM (
+  key: ^tmp(\$j,list,pssien,"syn",pss(1),.01) = synonym (50.72,.01)
+  text: ^TMP(\$J,LIST,PSSIEN,"SYN",PSS(1),.01) = SYNONYM (50.72,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0611a703dc
+  label: S X=\$\$CLASS2^PSNAPIS(IEN)
+  key: s x=\$\$class2^psnapis(ien)
+  text: S X=\$\$CLASS2^PSNAPIS(IEN)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-061578e950
+  label: PSSIEN is IEN of entry in the MEDICATION INSTRUCTI
+  key: pssien is ien of entry in the medication instruction file (#51)
+  text: PSSIEN is IEN of entry in the MEDICATION INSTRUCTION file (#51)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-061cea860a
+  label: S X=\$\$CLIST^PSNAPIS(DA,.LIST)
+  key: s x=\$\$clist^psnapis(da,.list)
+  text: S X=\$\$CLIST^PSNAPIS(DA,.LIST)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-061ea8b3fe
+  label: ^TMP(\$J,LIST,PSSIEN,905) = CORRESPONDING INPATIEN
+  key: ^tmp(\$j,list,pssien,905) = corresponding inpatient drug (50,905)^generic name (50,.01)
+  text: ^TMP(\$J,LIST,PSSIEN,905) = CORRESPONDING INPATIENT DRUG (50,905)^GENERIC NAME (50,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0642689394
+  label: ^TMP(\$J,LIST,PSNIEN,7) = INACTIVATION DATE (50.67
+  key: '^tmp(\$j,list,psnien,7) = inactivation date (50.67,7)^external format (ex: sep 12,1999)'
+  text: '^TMP(\$J,LIST,PSNIEN,7) = INACTIVATION DATE (50.67,7)^External format (ex: SEP 12,1999)'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-06b4c701d5
+  label: ^TMP(\$J,LIST,DFN,IEN,"RF",n,6)=CLERK CODE (52.1,6
+  key: ^tmp(\$j,list,dfn,ien,"rf",n,6)=clerk code (52.1,6)^name (200,.01)
+  text: ^TMP(\$J,LIST,DFN,IEN,"RF",n,6)=CLERK CODE (52.1,6)^NAME (200,.01)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-06d0ab3343
+  label: 'Note: The “ASP” cross-reference in the format of ^'
+  key: 'note: the “asp” cross-reference in the format of ^psdrug(“asp”,pharmacy orderable item (50,2.1),ien(50))
+    will be used for the lookup.'
+  text: 'Note: The “ASP” cross-reference in the format of ^PSDRUG(“ASP”,PHARMACY ORDERABLE ITEM (50,2.1),IEN(50))
+    will be used for the lookup.'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-06d1b9b57f
+  label: PSSIEN = IEN of entry in DOSAGE FORM file (#50.606
+  key: pssien = ien of entry in dosage form file (#50.606) \[required\]
+  text: PSSIEN = IEN of entry in DOSAGE FORM file (#50.606) \[required\]
+  evidence_docs: 4
+  doc_type: API
+- id: bp-071a1a9cc1
+  label: ndc = 12-digit National Drug Code (NDC)
+  key: ndc = 12-digit national drug code (ndc)
+  text: ndc = 12-digit National Drug Code (NDC)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-071cfed3f9
+  label: STIEN = IEN of the strength
+  key: stien = ien of the strength
+  text: STIEN = IEN of the strength
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0720fd2ac4
+  label: ^TMP(\$J,LIST,PSSIEN,"LOC",PSS(1),3) = OTHER LANGU
+  key: ^tmp(\$j,list,pssien,"loc",pss(1),3) = other language dosage name (50.0904,3)
+  text: ^TMP(\$J,LIST,PSSIEN,"LOC",PSS(1),3) = OTHER LANGUAGE DOSAGE NAME (50.0904,3)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-072b4fa084
+  label: S X=\$\$FNAME^PSSDI(PSSFNO**,**PSSFILE)
+  key: s x=\$\$fname^pssdi(pssfno**,**pssfile)
+  text: S X=\$\$FNAME^PSSDI(PSSFNO**,**PSSFILE)
+  evidence_docs: 4
+  doc_type: API
+- id: bp-0740d5eea5
+  label: ^TMP(\$J,LIST,PSSIEN,17) = USED IN IV FLUID ORDER
+  key: '^tmp(\$j,list,pssien,17) = used in iv fluid order entry (52.7,17)^external format (ex: "yes" for
+    1 otherwise it is null)'
+  text: '^TMP(\$J,LIST,PSSIEN,17) = USED IN IV FLUID ORDER ENTRY (52.7,17)^External format (ex: "YES"
+    for 1 otherwise it is null)'
+  evidence_docs: 4
+  doc_type: API
+- id: bp-078fb37799
+  label: PPP EXCLUSION (#1020.5) File
+  key: ppp exclusion (#1020.5) file
+  text: PPP EXCLUSION (#1020.5) File
+  evidence_docs: 4
+  doc_type: API
+- id: bp-07b04f8369
+  label: ^TMP(\$J,LIST,"AP",GENERIC NAME,PSSIEN) =""
+  key: ^tmp(\$j,list,"ap",generic name,pssien) =""
+  text: ^TMP(\$J,LIST,"AP",GENERIC NAME,PSSIEN) =""
+  evidence_docs: 4
+  doc_type: API
+- id: bp-07c244c2ad
+  label: array = array defined by the calling application
+  key: array = array defined by the calling application
+  text: array = array defined by the calling application
+  evidence_docs: 4
+  doc_type: API
+- id: bp-07c3ca06bb
+  label: ^TMP(\$J,LIST,PSOIEN,3)=INACTIVATION REASON CODE (
+  key: ^tmp(\$j,list,psoien,3)=inactivation reason code (52.91,3)^external format for the set of codes
+  text: ^TMP(\$J,LIST,PSOIEN,3)=INACTIVATION REASON CODE (52.91,3)^External Format for the Set of Codes
+  evidence_docs: 4
+  doc_type: API
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 6
+  doc_type: CFG
+- id: bp-85669e0cf7
+  label: Enterprise Program Management Office (EPMO)
+  key: enterprise program management office (epmo)
+  text: Enterprise Program Management Office (EPMO)
+  evidence_docs: 5
+  doc_type: CFG
+- id: bp-ad4425e5f5
+  label: Office of Information & Technology (OI&T)
+  key: office of information & technology (oi&t)
+  text: Office of Information & Technology (OI&T)
+  evidence_docs: 5
+  doc_type: CFG
+- id: bp-60b4b949f8
+  label: Edit Parameter Values
+  key: edit parameter values
+  text: Edit Parameter Values
+  evidence_docs: 4
+  doc_type: CFG
+- id: bp-943b839493
+  label: The following documents, in addition to this docum
+  key: 'the following documents, in addition to this document, will be available on the va software document
+    library (vdl) when the patch is released:'
+  text: 'The following documents, in addition to this document, will be available on the VA Software Document
+    Library (VDL) when the patch is released:'
+  evidence_docs: 4
+  doc_type: CFG
+- id: bp-dc96e89f5b
+  label: Examples of VistA “Roll and Scroll” interface acti
+  key: 'examples of vista “roll and scroll” interface actions will be shown in a box such as this:'
+  text: 'Examples of VistA “Roll and Scroll” interface actions will be shown in a box such as this:'
+  evidence_docs: 4
+  doc_type: CFG
+- id: bp-ed937e3139
+  label: 'Select OPTION NAME: XPAR EDIT PARAMETER Edit Param'
+  key: 'select option name: xpar edit parameter edit parameter values'
+  text: 'Select OPTION NAME: XPAR EDIT PARAMETER Edit Parameter Values'
+  evidence_docs: 4
+  doc_type: CFG
+- id: bp-02c5fbbb85
+  label: Emphasis of important points may be displayed in t
+  key: 'emphasis of important points may be displayed in this manner:'
+  text: 'Emphasis of important points may be displayed in this manner:'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-3d0d146f96
+  label: 'Select OPTION: ENTER OR EDIT FILE ENTRIES'
+  key: 'select option: enter or edit file entries'
+  text: 'Select OPTION: ENTER OR EDIT FILE ENTRIES'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-4ac0db54fd
+  label: This set up/configuration guide provides instructi
+  key: 'this set up/configuration guide provides instructions for:'
+  text: 'This set up/configuration guide provides instructions for:'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-6b3e3b13b0
+  label: '- *CPRS Technical Manual: GUI Version*'
+  key: '- *cprs technical manual: gui version*'
+  text: '- *CPRS Technical Manual: GUI Version*'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-7675f6d1e6
+  label: '> **NOTE:** This is an important point and must no'
+  key: '> **note:** this is an important point and must not be omitted.'
+  text: '> **NOTE:** This is an important point and must not be omitted.'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-c95c4a792e
+  label: The Computerized Patient Record System (CPRS) is a
+  key: the computerized patient record system (cprs) is a veterans health information systems and technology
+    architecture (vista) suite of application packages. cprs enables you to enter, review, and continuously
+    update information connected with a patient. with cprs, you can order lab tests, medications, diets,
+    radiology tests and procedures, record a patient’s allergies or adverse reactions to medications,
+    request and track consults, enter progress notes, diagnoses, and treatments for each encounter, and
+    enter discharge summaries. in addition, cprs supports clinical decision-making and enables you to
+    review and analyze patient data.
+  text: The Computerized Patient Record System (CPRS) is a Veterans Health Information Systems and Technology
+    Architecture (VistA) suite of application packages. CPRS enables you to enter, review, and continuously
+    update information connected with a patient. With CPRS, you can order lab tests, medications, diets,
+    radiology tests and procedures, record a patient’s allergies or adverse reactions to medications,
+    request and track consults, enter progress notes, diagnoses, and treatments for each encounter, and
+    enter discharge summaries. In addition, CPRS supports clinical decision-making and enables you to
+    review and analyze patient data.
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-d3fb6d7cea
+  label: '--------------------------------------------------'
+  key: '-----------------------------------------------------------------------------'
+  text: '-----------------------------------------------------------------------------'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-d9b307f6a4
+  label: '--------------------------------------------------'
+  key: '----------------------------------------------------------------------------'
+  text: '----------------------------------------------------------------------------'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-e2d6c78acc
+  label: '- *CPRS Technical Manual*'
+  key: '- *cprs technical manual*'
+  text: '- *CPRS Technical Manual*'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-f15720cead
+  label: '--------------------------------------------------'
+  key: '------------------------------------------------------------------------------'
+  text: '------------------------------------------------------------------------------'
+  evidence_docs: 3
+  doc_type: CFG
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 4
+  doc_type: INT
+- id: bp-3c3a3db7ab
+  label: The MSA segment contains information sent while ac
+  key: the msa segment contains information sent while acknowledging another message.
+  text: The MSA segment contains information sent while acknowledging another message.
+  evidence_docs: 3
+  doc_type: INT
+- id: bp-4e78f8a2db
+  label: The MSH segment defines the intent, source, destin
+  key: the msh segment defines the intent, source, destination, and some specifics of the syntax of a
+    message.
+  text: The MSH segment defines the intent, source, destination, and some specifics of the syntax of a
+    message.
+  evidence_docs: 3
+  doc_type: INT
+- id: bp-07c9c060a8
+  label: '- WebLogic JMS queues response time'
+  key: '- weblogic jms queues response time'
+  text: '- WebLogic JMS queues response time'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-095d6f2b4d
+  label: 17. Contact Tier 3 support.
+  key: 17. contact tier 3 support.
+  text: 17. Contact Tier 3 support.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-0d060d5ba8
+  label: You need to be in the CA APM Application Environme
+  key: you need to be in the ca apm application environment tool in order to access introscope and bluestripe.
+  text: You need to be in the CA APM Application Environment Tool in order to access Introscope and BlueStripe.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-0db8fed347
+  label: The following is an example of a message in a log
+  key: 'the following is an example of a message in a log file:'
+  text: 'The following is an example of a message in a log file:'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-1198c27a21
+  label: This section provides information regarding the lo
+  key: this section provides information regarding the logging capabilities of the system.
+  text: This section provides information regarding the logging capabilities of the system.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-122eff201e
+  label: The ES Physical view in Figure 7 represents the de
+  key: the es physical view in figure 7 represents the deployed environment and the relationship between
+    the different software packages and hardware components residing on the es platform.
+  text: The ES Physical view in Figure 7 represents the deployed environment and the relationship between
+    the different software packages and hardware components residing on the ES platform.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-1326203054
+  label: 'In this example, the message attributes are: Times'
+  key: 'in this example, the message attributes are: timestamp, severity, subsystem, message id, and message
+    text.'
+  text: 'In this example, the message attributes are: Timestamp, Severity, Subsystem, Message ID, and
+    Message Text.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-135bfe90f5
+  label: 1.  Find the batch process’ execution in esr.log.
+  key: 1. find the batch process’ execution in esr.log.
+  text: 1.  Find the batch process’ execution in esr.log.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-137a101621
+  label: '- EE Supervisor/Report Manager – DQM/Report Viewer'
+  key: '- ee supervisor/report manager – dqm/report viewer – ssn'
+  text: '- EE Supervisor/Report Manager – DQM/Report Viewer – SSN'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-15cbecef3c
+  label: 1.  Verify a Z11 was transmitted from ES to the si
+  key: 1. verify a z11 was transmitted from es to the sites; verify the z11 contains the zhp segment.
+    verify a z11 was transmitted from es to the sites; verify the z11 does not contain camp lejeune data
+    on the zel segment.
+  text: 1.  Verify a Z11 was transmitted from ES to the sites; Verify the Z11 contains the ZHP segment.
+    Verify a Z11 was transmitted from ES to the sites; Verify the Z11 does not contain Camp Lejeune data
+    on the ZEL segment.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-1675d10f81
+  label: This scenario assumes that a Veteran record was al
+  key: this scenario assumes that a veteran record was already identified.
+  text: This scenario assumes that a Veteran record was already identified.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-16931a8825
+  label: 'Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'
+  key: 'signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'
+  text: 'Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-17d3022827
+  label: '**Scenario 5: eMIS Query Status in “Queried – Pend'
+  key: '**scenario 5: emis query status in “queried – pending response”**'
+  text: '**Scenario 5: eMIS Query Status in “Queried – Pending Response”**'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-17e92d203b
+  label: '- Look for the batch process’ execution in the esr'
+  key: '- look for the batch process’ execution in the esr.log file.'
+  text: '- Look for the batch process’ execution in the esr.log file.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-180de43eb3
+  label: '> If the message is not found in the database then'
+  key: '> if the message is not found in the database then either es has not received it, or it is still
+    in the inbound jms queue waiting to be processed. > > find a message by message control id (replace
+    number) > > select message_control_number, record_created_by, to_char(record_created_date, ''mm/dd/yyyy
+    hh:mi:ss'') from hl7_transaction_log where message_control_number=''88865050-1’'
+  text: '> If the message is not found in the database then either ES has not received it, or it is still
+    in the inbound JMS queue waiting to be processed.
+
+    >
+
+    > Find a Message by Message Control Id (replace number)
+
+    >
+
+    > Select message_control_number, record_created_by, to_char(record_created_date, ''mm/dd/yyyy hh:mi:ss'')
+    from hl7_transaction_log where message_control_number=''88865050-1’'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-1aa08b3498
+  label: '**Scenario 10: Enrollment Records in VistA CL = Ye'
+  key: '**scenario 10: enrollment records in vista cl = yes patient not eligible**'
+  text: '**Scenario 10: Enrollment Records in VistA CL = Yes Patient Not Eligible**'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-1abd0d021a
+  label: This section provides a high-level view of system
+  key: this section provides a high-level view of system errors that may be encountered during operation.
+  text: This section provides a high-level view of system errors that may be encountered during operation.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-20846a35a5
+  label: 19. Contact Tier 3 support.
+  key: 19. contact tier 3 support.
+  text: 19. Contact Tier 3 support.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2119c80587
+  label: '> This can be found in the BHS segment. In the bel'
+  key: '> this can be found in the bhs segment. in the below example, the z07 came from va medical center
+    (vamc) 552. > > bhs^~\|\\^vamc 552^552^esr^200esr^20040810^^~t~oru\|z07~2.3.1~al~al^^54364365^'
+  text: '> This can be found in the BHS segment. In the below example, the Z07 came from VA Medical Center
+    (VAMC) 552.
+
+    >
+
+    > BHS^~\|\\^VAMC 552^552^ESR^200ESR^20040810^^~T~ORU\|Z07~2.3.1~AL~AL^^54364365^'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-22a2a3fada
+  label: The Log4j log files are created in the \$DOMAIN_HO
+  key: the log4j log files are created in the \$domain_home directory
+  text: The Log4j log files are created in the \$DOMAIN_HOME directory
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-22cde9a238
+  label: In addition to writing messages to a log file, eac
+  key: in addition to writing messages to a log file, each server instance prints a subset of its messages
+    to the standard output log. by default, a server instance prints only messages of a warning severity
+    level or higher to the standard output log.
+  text: In addition to writing messages to a log file, each server instance prints a subset of its messages
+    to the standard output log. By default, a server instance prints only messages of a WARNING severity
+    level or higher to the standard output log.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-234d5d4a91
+  label: 13. If the batch process is running, look at datab
+  key: 13. if the batch process is running, look at database statistics from prod database service (dbs)
+    and/or introscope.
+  text: 13. If the batch process is running, look at database statistics from Prod Database Service (DBS)
+    and/or Introscope.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-24da75bba7
+  label: Figure 1 is an overview diagram of the internal an
+  key: figure 1 is an overview diagram of the internal and external systems and sub-systems that interface
+    with the es and shows the data stores that es shares with other systems.
+  text: Figure 1 is an overview diagram of the internal and external systems and sub-systems that interface
+    with the ES and shows the data stores that ES shares with other systems.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-276fcd9629
+  label: '- The framework module represents the system plumb'
+  key: '- the framework module represents the system plumbing and integration points with other third-party
+    libraries.'
+  text: '- The framework module represents the system plumbing and integration points with other third-party
+    libraries.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2a41271b56
+  label: '**Scenario 6: Users Getting No Response**'
+  key: '**scenario 6: users getting no response**'
+  text: '**Scenario 6: Users Getting No Response**'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2e01eee12b
+  label: '- WebLogic Java Messaging Service (JMS) queues cur'
+  key: '- weblogic java messaging service (jms) queues current and pending count'
+  text: '- WebLogic Java Messaging Service (JMS) queues current and pending count'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2ea0b486ab
+  label: All application server errors are logged in the ap
+  key: all application server errors are logged in the application error log.
+  text: All application server errors are logged in the application error log.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2f7569d250
+  label: The ES application is hosted by a WebLogic Domain
+  key: the es application is hosted by a weblogic domain of clustered servers. the domain consists of
+    one admin server instance, esradminserver, and three managed servers (ms1, ms2 and ms3).
+  text: The ES application is hosted by a WebLogic Domain of clustered servers. The domain consists of
+    one Admin server instance, ESRAdminServer, and three managed servers (MS1, MS2 and MS3).
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-2fc9982e79
+  label: Refer to the Administration Console for administra
+  key: 'refer to the administration console for administrative procedures regarding weblogic administration
+    tasks. tasks such as system startup, system shutdown, and backup and restore are managed by the austin
+    information technology center (aitc) and handled by the aitc system administrators. using the administration
+    console, more detailed information on weblogic administration tasks can be obtained from the official
+    documentation at:'
+  text: 'Refer to the Administration Console for administrative procedures regarding WebLogic administration
+    tasks. Tasks such as system startup, system shutdown, and backup and restore are managed by the Austin
+    Information Technology Center (AITC) and handled by the AITC system administrators. Using the Administration
+    Console, more detailed information on WebLogic administration tasks can be obtained from the official
+    documentation at:'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-331ae0e908
+  label: The Administrative Data Repository (ADR) database
+  key: the administrative data repository (adr) database team is responsible for maintaining an audit
+    trail. the team maintains an audit log at the application level. changes to user information are tracked
+    through es, which automatically records additions and deletions. currently, es administrators generate
+    and review the audit log for security purposes on a daily basis, and the information security officer
+    (iso) generates and reviews the audit log on a weekly basis. es maintains audit trails that are sufficient
+    in assisting in reconstruction of events due to a security compromise or malfunction.
+  text: The Administrative Data Repository (ADR) database team is responsible for maintaining an audit
+    trail. The team maintains an audit log at the application level. Changes to user information are tracked
+    through ES, which automatically records additions and deletions. Currently, ES administrators generate
+    and review the audit log for security purposes on a daily basis, and the Information Security Officer
+    (ISO) generates and reviews the audit log on a weekly basis. ES maintains audit trails that are sufficient
+    in assisting in reconstruction of events due to a security compromise or malfunction.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-36885f2629
+  label: '- User ID for unsuccessful logon attempts'
+  key: '- user id for unsuccessful logon attempts'
+  text: '- User ID for unsuccessful logon attempts'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-385d03c61b
+  label: '- Look for subsequent log statements with the thre'
+  key: '- look for subsequent log statements with the thread id.'
+  text: '- Look for subsequent log statements with the thread ID.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-39f6129c3e
+  label: '> ./servers/\<serverName\>/logs/\<serverName\>.log'
+  key: '> ./servers/\<servername\>/logs/\<servername\>.log > > ./servers/\<servername\>/logs/\<servername\>.out'
+  text: '> ./servers/\<serverName\>/logs/\<serverName\>.log
+
+    >
+
+    > ./servers/\<serverName\>/logs/\<serverName\>.out'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-3ca9d48b58
+  label: Security errors encountered by users and/or operat
+  key: security errors encountered by users and/or operators will involve login and privilege issues.
+    these will typically involve a user not having the appropriate access levels granted. these can be
+    corrected by contacting the appropriate security administrator or the va help desk.
+  text: Security errors encountered by users and/or operators will involve login and privilege issues.
+    These will typically involve a user not having the appropriate access levels granted. These can be
+    corrected by contacting the appropriate security administrator or the VA help desk.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-405a7508d7
+  label: 9.  Is there a Consistency Check failure that occu
+  key: 9. is there a consistency check failure that occurred in cluster1?
+  text: 9.  Is there a Consistency Check failure that occurred in Cluster1?
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-409d2cc4b9
+  label: '**Scenario 4: NumberOfErrorRecords**'
+  key: '**scenario 4: numberoferrorrecords**'
+  text: '**Scenario 4: NumberOfErrorRecords**'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-40ff449cb4
+  label: 1.  Increase in messaging volume and pattern
+  key: 1. increase in messaging volume and pattern
+  text: 1.  Increase in messaging volume and pattern
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-41fdb4c03b
+  label: '> **Note:** A high volume of messages in MessagesC'
+  key: '> **note:** a high volume of messages in messagescurrentcount for a particular jms queue would
+    indicate that there are messages that es has not yet processed.'
+  text: '> **Note:** A high volume of messages in MessagesCurrentCount for a particular JMS queue would
+    indicate that there are messages that ES has not yet processed.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-42925430f6
+  label: Concurrency errors may be encountered by users att
+  key: concurrency errors may be encountered by users attempting to update a case or other business records
+    at the same time as another user. this is an extremely rare occurrence due to the way cases are assigned
+    to users, and to the fact that the user base is relatively small. if this does occur, the first user
+    will take precedence and the second user will be notified that any changes made during the session
+    will not be written to the database. this type of optimistic locking assumes low likelihood of occurrence
+    and will prevent inadvertent corruption of data.
+  text: Concurrency errors may be encountered by users attempting to update a case or other business records
+    at the same time as another user. This is an extremely rare occurrence due to the way cases are assigned
+    to users, and to the fact that the user base is relatively small. If this does occur, the first user
+    will take precedence and the second user will be notified that any changes made during the session
+    will not be written to the database. This type of optimistic locking assumes low likelihood of occurrence
+    and will prevent inadvertent corruption of data.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-46a0289dfc
+  label: 1.  Which site sent the message?
+  key: 1. which site sent the message?
+  text: 1.  Which site sent the message?
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-46b7488ef4
+  label: '> **Note:** Details are described in the AITC Dire'
+  key: '> **note:** details are described in the aitc directive 0712 (parts: 16 general user security
+    procedures and 20 system administrator security procedures) and hec-18.'
+  text: '> **Note:** Details are described in the AITC Directive 0712 (Parts: 16 General User Security
+    Procedures and 20 System Administrator Security Procedures) and HEC-18.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-479e4da6c6
+  label: For a batch process, what is the reason for the nu
+  key: for a batch process, what is the reason for the numberoferrorrecords=n, where n is not 0?
+  text: For a batch process, what is the reason for the numberOfErrorRecords=n, where n is not 0?
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-49fe7d23d5
+  label: Like most systems, ES may generate a small set of
+  key: like most systems, es may generate a small set of errors that may be considered routine, in the
+    sense that they have minimal impact on the user and do not compromise the operational state of the
+    system. most of the errors are transient in nature and only require the user to retry an operation.
+    the following subsections describe these errors, their causes, and what, if any, response an operator
+    needs to take.
+  text: Like most systems, ES may generate a small set of errors that may be considered routine, in the
+    sense that they have minimal impact on the user and do not compromise the operational state of the
+    system. Most of the errors are transient in nature and only require the user to retry an operation.
+    The following subsections describe these errors, their causes, and what, if any, response an operator
+    needs to take.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-4a99cc4709
+  label: Session time-outs may occur to end a user's sessio
+  key: session time-outs may occur to end a user's session if it is left unattended for an extended period
+    of time. the user will need to establish a new session by logging in and resuming the work in progress.
+  text: Session time-outs may occur to end a user's session if it is left unattended for an extended period
+    of time. The user will need to establish a new session by logging in and resuming the work in progress.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-4c1649f8e7
+  label: '- Find the thread ID running the batch process.'
+  key: '- find the thread id running the batch process.'
+  text: '- Find the thread ID running the batch process.'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-4cc353c6ec
+  label: '> \<Sep 12, 2017 11:05:59 AM CDT\> \<Info\> \<Secu'
+  key: '> \<sep 12, 2017 11:05:59 am cdt\> \<info\> \<security\> \<bea-090905\> \<disabling cryptoj jce
+    provider self-integrity check for better startup performance. to enable this check, specify -dweblogic.security.allowcryptojdefaultjceverification=true\>'
+  text: '> \<Sep 12, 2017 11:05:59 AM CDT\> \<Info\> \<Security\> \<BEA-090905\> \<Disabling CryptoJ JCE
+    Provider self-integrity check for better startup performance. To enable this check, specify -Dweblogic.security.allowCryptoJDefaultJCEVerification=true\>'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-4f1b2c83cc
+  label: The audit trail of ES contains the following requi
+  key: 'the audit trail of es contains the following requirements:'
+  text: 'The audit trail of ES contains the following requirements:'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-50d5a5f0b5
+  label: All database errors are logged in the application
+  key: all database errors are logged in the application error log.
+  text: All database errors are logged in the application error log.
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-51821e7116
+  label: '**Scenario 2: Missing Outbound Message**'
+  key: '**scenario 2: missing outbound message**'
+  text: '**Scenario 2: Missing Outbound Message**'
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-524a891800
+  label: 10. Is there a Workload Case created?
+  key: 10. is there a workload case created?
+  text: 10. Is there a Workload Case created?
+  evidence_docs: 3
+  doc_type: POM
+- id: bp-08f5716206
+  label: '- For a site VIX, this is the STATION NUMBER (fiel'
+  key: '- for a site vix, this is the station number (field (#99) of the institution file (#4) of the
+    site where the vix resides.'
+  text: '- For a site VIX, this is the STATION NUMBER (field (#99) of the INSTITUTION file (#4) of the
+    site where the VIX resides.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-097888a03b
+  label: 10. Click **Save as CSV** for comma-separated valu
+  key: 10. click **save as csv** for comma-separated values or **save as tsv** for tab-separated values.
+  text: 10. Click **Save as CSV** for comma-separated values or **Save as TSV** for tab-separated values.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-156238ff0b
+  label: Department of Veterans Affairs
+  key: department of veterans affairs
+  text: Department of Veterans Affairs
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-1dffc1684d
+  label: '- For the CVIX, this value will be 2001.'
+  key: '- for the cvix, this value will be 2001.'
+  text: '- For the CVIX, this value will be 2001.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-299887a614
+  label: '- Once a day, access the transaction log on each C'
+  key: '- once a day, access the transaction log on each cvix node to verify that the cvix is running.'
+  text: '- Once a day, access the transaction log on each CVIX node to verify that the CVIX is running.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-322e189ab1
+  label: '- Repository (VA site or DoD facility)'
+  key: '- repository (va site or dod facility)'
+  text: '- Repository (VA site or DoD facility)'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-3b6b692312
+  label: '- CVIX-to-VIX communications require a valid secur'
+  key: '- cvix-to-vix communications require a valid security certificate.'
+  text: '- CVIX-to-VIX communications require a valid security certificate.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-3f657271b2
+  label: 65. Open the Services window (click **Start \| All
+  key: 65. open the services window (click **start \| all programs \| administrative tools \| services**).
+  text: 65. Open the Services window (click **Start \| All Programs \| Administrative Tools \| Services**).
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-42c8ef7a51
+  label: If the connection information in the site service
+  key: if the connection information in the site service needs to be changed, do the following.
+  text: If the connection information in the site service needs to be changed, do the following.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-43773ab142
+  label: '- If the image originates from the DoD, the CVIX d'
+  key: '- if the image originates from the dod, the cvix does not perform any compression before sending
+    the image to the requestor. (in the case of dicom images requested by vistarad via a vix, the images
+    are already compressed and will be decompressed by the vix).'
+  text: '- If the image originates from the DoD, the CVIX does not perform any compression before sending
+    the image to the requestor. (In the case of DICOM images requested by VistARad via a VIX, the images
+    are already compressed and will be decompressed by the VIX).'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-4d83f679b1
+  label: 4.  To view different parts of the log, use the pa
+  key: '4. to view different parts of the log, use the paging buttons near the top and at the bottom of
+    the log as follows:'
+  text: '4.  To view different parts of the log, use the paging buttons near the top and at the bottom
+    of the log as follows:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-4e5d8a6b4f
+  label: 3.  The CVIX Transaction Log page will display.
+  key: 3. the cvix transaction log page will display.
+  text: 3.  The CVIX Transaction Log page will display.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-50dcabbcf5
+  label: '- Host the VIX log collector.'
+  key: '- host the vix log collector.'
+  text: '- Host the VIX log collector.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-50e25b3d39
+  label: '- Study (group) identifier'
+  key: '- study (group) identifier'
+  text: '- Study (group) identifier'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-51158034df
+  label: 4.  The CVIX caches the image in its local cache.
+  key: 4. the cvix caches the image in its local cache. if the cvix compressed the image, the compressed
+    version is cached, not the original version.
+  text: 4.  The CVIX caches the image in its local cache. If the CVIX compressed the image, the compressed
+    version is cached, not the original version.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-5b8789c78d
+  label: Office of Information and Technology (OIT)
+  key: office of information and technology (oit)
+  text: Office of Information and Technology (OIT)
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-5fd069e115
+  label: '- Laurel Bridge DCF toolkit'
+  key: '- laurel bridge dcf toolkit'
+  text: '- Laurel Bridge DCF toolkit'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-6b2eb8f86c
+  label: 67. Click the <u>Restart</u> the service link and
+  key: 67. click the <u>restart</u> the service link and wait until the service restarts.
+  text: 67. Click the <u>Restart</u> the service link and wait until the service restarts.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-6cafdcf043
+  label: The CVIX is a component of VistA Imaging and is re
+  key: 'the cvix is a component of vista imaging and is regulated as a medical device by the food and
+    drug administration (fda). use of the cvix is subject to the following provisions:'
+  text: 'The CVIX is a component of VistA Imaging and is regulated as a medical device by the Food and
+    Drug Administration (FDA). Use of the CVIX is subject to the following provisions:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-6fe41b3df3
+  label: 1.  One of the following applications requests a r
+  key: '1. one of the following applications requests a remote image based on a clinician’s activities:'
+  text: '1.  One of the following applications requests a remote image based on a clinician’s activities:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-752eb4ea17
+  label: 2.  Use ping or a similar command to verify that t
+  key: 2. use ping or a similar command to verify that the information is correct.
+  text: 2.  Use ping or a similar command to verify that the information is correct.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-7cc1073b4d
+  label: '- If caching is allowed for the metadata in questi'
+  key: '- if caching is allowed for the metadata in question, the cvix checks its local cache for the
+    metadata.'
+  text: '- If caching is allowed for the metadata in question, the CVIX checks its local cache for the
+    metadata.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-8306793cc2
+  label: '- By default, the page displays the 100 most recen'
+  key: '- by default, the page displays the 100 most recent transactions for the current day.'
+  text: '- By default, the page displays the 100 most recent transactions for the current day.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-843eb5a757
+  label: '- Implements and manages the CVIX cache.'
+  key: '- implements and manages the cvix cache.'
+  text: '- Implements and manages the CVIX cache.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-873819fe87
+  label: '- Sample output is shown in monospace.'
+  key: '- sample output is shown in monospace.'
+  text: '- Sample output is shown in monospace.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-8b361d2663
+  label: '- Once a week, check available cache space on each'
+  key: '- once a week, check available cache space on each cvix node.'
+  text: '- Once a week, check available cache space on each CVIX node.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-95ad8829e3
+  label: '- If the Log Collector cannot reach a VIX on a giv'
+  key: '- if the log collector cannot reach a vix on a given day, it will queue its backup attempt and
+    attempt to copy any backlogged items during the next backup period.'
+  text: '- If the Log Collector cannot reach a VIX on a given day, it will queue its backup attempt and
+    attempt to copy any backlogged items during the next backup period.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-9b58bf1939
+  label: '- The transactions are ordered from newest to olde'
+  key: '- the transactions are ordered from newest to oldest.'
+  text: '- The transactions are ordered from newest to oldest.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-a0d5e5f0db
+  label: '- The CVIX only responds to requests from authenti'
+  key: '- the cvix only responds to requests from authenticated applications. application-level authentication
+    is invisible to the clinical user who initiated the request.'
+  text: '- The CVIX only responds to requests from authenticated applications. Application-level authentication
+    is invisible to the clinical user who initiated the request.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-a30c6e5e72
+  label: '- Keyboard key names are shown in bold and in brac'
+  key: '- keyboard key names are shown in bold and in brackets.'
+  text: '- Keyboard key names are shown in bold and in brackets.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-a6b296ef0b
+  label: The CVIX incorporates the following additional com
+  key: 'the cvix incorporates the following additional components:'
+  text: 'The CVIX incorporates the following additional components:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-aabaa92daf
+  label: '- If the image originates from the VA, a VIX may p'
+  key: '- if the image originates from the va, a vix may perform the compression if a vix is present at
+    the originating site. if no vix is present, the cvix performs the compression if compression is applicable.'
+  text: '- If the image originates from the VA, a VIX may perform the compression if a VIX is present
+    at the originating site. If no VIX is present, the CVIX performs the compression if compression is
+    applicable.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-afec23b203
+  label: 7.  To change the number of entries displayed on e
+  key: 7. to change the number of entries displayed on each page, select a different value from the transactions
+    per page box, and then click **show in browser.**
+  text: 7.  To change the number of entries displayed on each page, select a different value from the
+    Transactions per Page box, and then click **Show in Browser.**
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-b750072c00
+  label: '**NOTE:** Transaction log credentials are authenti'
+  key: '**note:** transaction log credentials are authenticated against the local **vista** system. attempting
+    to use windows credentials will not work.'
+  text: '**NOTE:** Transaction log credentials are authenticated against the local **VistA** system. Attempting
+    to use Windows credentials will not work.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-b8a026889d
+  label: In addition to this manual, the following document
+  key: 'in addition to this manual, the following documents contain information about the cvix:'
+  text: 'In addition to this manual, the following documents contain information about the CVIX:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-b932e9b044
+  label: '- Aware JPEG2000 toolkit'
+  key: '- aware jpeg2000 toolkit'
+  text: '- Aware JPEG2000 toolkit'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-c429961c21
+  label: '- Controls, options, and button names are shown in'
+  key: '- controls, options, and button names are shown in **bold**.'
+  text: '- Controls, options, and button names are shown in **Bold**.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-c470fb3171
+  label: 1.  On the Transaction Log page, use the date rang
+  key: 1. on the transaction log page, use the date range boxes near the top of the page to specify the
+    desired date range of export entries.
+  text: 1.  On the Transaction Log page, use the date range boxes near the top of the page to specify
+    the desired date range of export entries.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-c88a146076
+  label: 53. Notify the originators of the request that the
+  key: 53. notify the originators of the request that the site service has been updated, and work with
+    them to ensure the new connection information works as expected.
+  text: 53. Notify the originators of the request that the site service has been updated, and work with
+    them to ensure the new connection information works as expected.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-cad6e342f8
+  label: '- Host the VistA Site Service, the repository of c'
+  key: '- host the vista site service, the repository of connection information used by various imaging
+    components.'
+  text: '- Host the VistA Site Service, the repository of connection information used by various Imaging
+    components.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-cb551aae71
+  label: 5.  Edit the value for the emailAddress key as nee
+  key: 5. edit the value for the emailaddress key as needed. separate each email address with a comma.
+  text: 5.  Edit the value for the emailAddress key as needed. Separate each email address with a comma.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-d293b7bf18
+  label: '- Provide VA images to DoD clinicians.'
+  key: '- provide va images to dod clinicians.'
+  text: '- Provide VA images to DoD clinicians.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-d315712828
+  label: '- Security certificates'
+  key: '- security certificates'
+  text: '- Security certificates'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-d8d7f23d65
+  label: The runtime environment files and resources for th
+  key: the runtime environment files and resources for the cvix servlet engine and for cvix java components.
+  text: The runtime environment files and resources for the CVIX servlet engine and for CVIX Java components.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-de57900446
+  label: 52. For each CVIX node, refresh its cached site se
+  key: '52. for each cvix node, refresh its cached site service connection information by doing the following:'
+  text: '52. For each CVIX node, refresh its cached site service connection information by doing the following:'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-e04a285a29
+  label: 66. On the right side of the window, locate the VI
+  key: 66. on the right side of the window, locate the vix log collector service.
+  text: 66. On the right side of the window, locate the VIX Log Collector service.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-e079445da0
+  label: 16. If there is an open ANR for the CVIX, update t
+  key: 16. if there is an open anr for the cvix, update the anr to indicate that the service interruption
+    is over.
+  text: 16. If there is an open ANR for the CVIX, update the ANR to indicate that the service interruption
+    is over.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-e467986b13
+  label: '- Examines commands received from all the CVIX int'
+  key: '- examines commands received from all the cvix interfaces.'
+  text: '- Examines commands received from all the CVIX interfaces.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-e4d6711bb3
+  label: 9.  The Transactions per Page setting does not app
+  key: 9. the transactions per page setting does not apply when log entries are supported.
+  text: 9.  The Transactions per Page setting does not apply when log entries are supported.
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-e4f2831f80
+  label: '- If the CVIX failover cluster is rebooted, the Lo'
+  key: '- if the cvix failover cluster is rebooted, the log collector restarts automatically.'
+  text: '- If the CVIX failover cluster is rebooted, the Log Collector restarts automatically.'
+  evidence_docs: 3
+  doc_type: AG
+- id: bp-00f69134ad
+  label: The NUMI website basic and advanced settings are s
+  key: 'the numi website basic and advanced settings are shown in figure 23: numi exchange basic settings
+    and figure 24: numi advanced settings.'
+  text: 'The NUMI website basic and advanced settings are shown in Figure 23: NUMI Exchange Basic Settings
+    and Figure 24: NUMI Advanced Settings.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-010c91a6ba
+  label: e.g., InstallUtil.exe /i D:\NUMI\\install_dir\>\bi
+  key: e.g., installutil.exe /i d:\numi\\install_dir\>\bin\numiwebapp.dll
+  text: e.g., InstallUtil.exe /i D:\NUMI\\install_dir\>\bin\NumiWebApp.dll
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-02f447de21
+  label: The NUMI application pool setup is shown in Figure
+  key: 'the numi application pool setup is shown in figure 39: application pool window.'
+  text: 'The NUMI application pool setup is shown in Figure 39: Application Pool Window.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-03e576008b
+  label: '**NOTE**: With this command, we are changing the k'
+  key: '**note**: with this command, we are changing the key password to “reallysecret” for this example.'
+  text: '**NOTE**: With this command, we are changing the key password to “reallysecret” for this example.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-045c628ba7
+  label: 5.  Install / restore the database components acco
+  key: 5. install / restore the database components according to the instructions in section 4.1 instructions
+    for installing database components.
+  text: 5.  Install / restore the database components according to the instructions in section 4.1 Instructions
+    for Installing Database Components.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-055038c1df
+  label: Restoring the Appropriate Databases for the NUMI A
+  key: restoring the appropriate databases for the numi application applies to the database server only.
+  text: Restoring the Appropriate Databases for the NUMI Application applies to the database server only.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-057bfc5dbb
+  label: The NUMI Exchange web site authentication settings
+  key: 'the numi exchange web site authentication settings are shown in figure 26: numi exchange authentication
+    settings.'
+  text: 'The NUMI Exchange web site authentication settings are shown in Figure 26: NUMI Exchange Authentication
+    Settings.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0692205a42
+  label: The average amount of time required to complete th
+  key: the average amount of time required to complete the numi installation is 2 days.
+  text: The average amount of time required to complete the NUMI installation is 2 days.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0724bab8f5
+  label: 49. Now follow the steps below to update CERMe to
+  key: 49. now follow the steps below to update cerme to cerme 21.0.1.
+  text: 49. Now follow the steps below to update CERMe to CERMe 21.0.1.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-079cd21c59
+  label: Add the content below to the end of the \< Config
+  key: add the content below to the end of the \< config \> element
+  text: Add the content below to the end of the \< Config \> element
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0846b7e4d3
+  label: \<Call name="addRule"\>
+  key: \<call name="addrule"\>
+  text: \<Call name="addRule"\>
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0992779578
+  label: '**\<IntegratedLogin Enabled="true" CookieName="uni'
+  key: '**\<integratedlogin enabled="true" cookiename="unifiedkey" unifiedkey="8rzvnflwjhwhvpctaen9dw=="
+    authenticationfailurl="/iqm/html/rm_integrated_authentication_failed.htm" guidusercid="iq_1" guid="a1b0b165-3c18-4561-935f-5fb81bd42128"
+    authenticatews="false"/\>**'
+  text: '**\<IntegratedLogin Enabled="true" CookieName="unifiedkey" UnifiedKey="8rzVNfLwjHWHvPctaen9dw=="
+    AuthenticationFailUrl="/iqm/html/rm_integrated_authentication_failed.htm" GuidUserCid="IQ_1" Guid="A1B0B165-3C18-4561-935F-5FB81BD42128"
+    AuthenticateWS="false"/\>**'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0a3b2f6dac
+  label: To make any future changes to the src\\main\\resou
+  key: 'to make any future changes to the src\\main\\resources\\xml\\deployment\\numiwebapp.config first
+    decrypt the file by running command:'
+  text: 'To make any future changes to the src\\main\\resources\\xml\\deployment\\NumiWebApp.config first
+    decrypt the file by running command:'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0a977a054c
+  label: 4.  Optional – Reuse this file if another web serv
+  key: 4. optional – reuse this file if another web server requires this sts endpoint’s certificate.
+  text: 4.  Optional – Reuse this file if another web server requires this STS endpoint’s certificate.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0ad5964393
+  label: AuthenticationFailUrl="/iqm/html/rm_integrated_aut
+  key: authenticationfailurl="/iqm/html/rm_integrated_authentication_failed.htm" guidusercid="iq_1" guid="a1b0b165-3c18-4561-935f-5fb81bd42128"
+  text: AuthenticationFailUrl="/iqm/html/rm_integrated_authentication_failed.htm" GuidUserCid="IQ_1" Guid="A1B0B165-3C18-4561-935F-5FB81BD42128"
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0aef3ba31a
+  label: jetty.keystore=etc/keystore
+  key: jetty.keystore=etc/keystore
+  text: jetty.keystore=etc/keystore
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0bda7f898d
+  label: 33. Update the application settings in the NUMI Ex
+  key: 33. update the application settings in the numi exchange web.config file, located in the directory
+    created above. typically, this would involve updating the database connection string.
+  text: 33. Update the application settings in the NUMI Exchange web.config file, located in the directory
+    created above. Typically, this would involve updating the database connection string.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0d00c50087
+  label: 7.  Browse to file created in step 10 and click Ne
+  key: 7. browse to file created in step 10 and click next
+  text: 7.  Browse to file created in step 10 and click Next
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0d4fe9b4af
+  label: 12GB RAM, Dual 2.20 GHz Intel Xeon®E5-2698 v4 – We
+  key: 12gb ram, dual 2.20 ghz intel xeon®e5-2698 v4 – web server
+  text: 12GB RAM, Dual 2.20 GHz Intel Xeon®E5-2698 v4 – Web Server
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0d942ab4d7
+  label: 3.  The command should execute successfully and gi
+  key: '3. the command should execute successfully and give the following message:'
+  text: '3.  The command should execute successfully and give the following message:'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-0d9c8a6344
+  label: '**\<cookie-config\>**'
+  key: '**\<cookie-config\>**'
+  text: '**\<cookie-config\>**'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-10cdefec1b
+  label: Right click on the zip file, select the “Unblock”
+  key: right click on the zip file, select the “unblock” if active, and select o.k. some security schemes
+    will block certain files from being unpacked, typically the java files under the “web” directory.
+    setting the file to unblock eliminates this problem.
+  text: Right click on the zip file, select the “Unblock” if active, and select O.K. Some security schemes
+    will block certain files from being unpacked, typically the Java files under the “web” directory.
+    Setting the file to Unblock eliminates this problem.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-10d307bb3c
+  label: These jobs can be installed from scripts (included
+  key: these jobs can be installed from scripts (included in the build) or, if you are transferring from
+    another server, you can right click on each job and script as drop and create.
+  text: These jobs can be installed from scripts (included in the build) or, if you are transferring from
+    another server, you can right click on each job and script as DROP and CREATE.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-12550a1791
+  label: Make changes to the configuration as needed and fo
+  key: make changes to the configuration as needed and follow the above steps to encrypt it again.
+  text: Make changes to the configuration as needed and follow the above steps to encrypt it again.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-12a9499ca6
+  label: This applies to all servers.
+  key: this applies to all servers.
+  text: This applies to all servers.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-137f6287a9
+  label: Select the main node in IIS, with the server name.
+  key: 'select the main node in iis, with the server name. then double click on “feature delegation” item.
+    change the “feature delegation” settings for the server, as shown in figure 6: iis feature delegation.'
+  text: 'Select the main node in IIS, with the server name. Then double click on “Feature Delegation”
+    item. Change the “Feature Delegation” settings for the server, as shown in Figure 6: IIS Feature Delegation.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-13cae21705
+  label: '**\<Set name="value"\>max-age=31536000; includeSub'
+  key: '**\<set name="value"\>max-age=31536000; includesubdomains\</set\>**'
+  text: '**\<Set name="value"\>max-age=31536000; includeSubDomains\</Set\>**'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-143642a651
+  label: \<Set name="rewriteRequestURI"\>\<Property name="r
+  key: \<set name="rewriterequesturi"\>\<property name="rewrite.rewriterequesturi" default="true"/\>\</set\>
+  text: \<Set name="rewriteRequestURI"\>\<Property name="rewrite.rewriteRequestURI" default="true"/\>\</Set\>
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-15a695f290
+  label: \<connectionStrings/\>
+  key: \<connectionstrings/\>
+  text: \<connectionStrings/\>
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1627e32716
+  label: 1.  Copy a backup of an existing NUMI database(s)
+  key: 1. copy a backup of an existing numi database(s) of appropriate size and content to the new numi
+    database server
+  text: 1.  Copy a backup of an existing NUMI database(s) of appropriate size and content to the new NUMI
+    database server
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-17240f6cd3
+  label: This section identifies the installation procedure
+  key: this section identifies the installation procedures that shall be followed.
+  text: This section identifies the installation procedures that shall be followed.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-178a6f992a
+  label: The scope of this document includes explanations o
+  key: the scope of this document includes explanations of the appropriate steps to install the numi software,
+    and the steps that are needed to be completed before and after the installation process is started.
+  text: The scope of this document includes explanations of the appropriate steps to install the NUMI
+    software, and the steps that are needed to be completed before and after the installation process
+    is started.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-17af1a270d
+  label: '**\<Set name="name"\>Strict-Transport-Security\</S'
+  key: '**\<set name="name"\>strict-transport-security\</set\>**'
+  text: '**\<Set name="name"\>Strict-Transport-Security\</Set\>**'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1949ac2755
+  label: 30. Click the \<Next\> button.
+  key: 30. click the \<next\> button.
+  text: 30. Click the \<Next\> button.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1a96258300
+  label: The NUMI web site compression settings are shown i
+  key: 'the numi web site compression settings are shown in figure 38: numi compression settings.'
+  text: 'The NUMI web site compression settings are shown in Figure 38: NUMI Compression Settings.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1aaf955d74
+  label: .\aspnet_regiis.exe -pef "appSettings" D:\NUMI\\in
+  key: .\aspnet_regiis.exe -pef "appsettings" d:\numi\\install_dir\>
+  text: .\aspnet_regiis.exe -pef "appSettings" D:\NUMI\\install_dir\>
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1bb0483371
+  label: 13. Install the NUMI application
+  key: 13. install the numi application
+  text: 13. Install the NUMI application
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1bfba94c1b
+  label: 2.  Click on General Tab under NUMI Properties dia
+  key: 2. click on general tab under numi properties dialog box window. check/click on overwrite events
+    as needed.
+  text: 2.  Click on General Tab under NUMI Properties dialog box window. Check/Click on Overwrite events
+    as needed.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1d819ecdb7
+  label: 1.  Install the full certification chain from the
+  key: 1. install the full certification chain from the matching iam environment(s). this can be obtained
+    by visiting the link and clicking the lock icon and choosing “view certificates”.
+  text: 1.  Install the full certification chain from the matching IAM environment(s). This can be obtained
+    by visiting the link and clicking the lock icon and choosing “View Certificates”.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1da61f893c
+  label: 67. Install Command - Type InstallUtil.exe /I \< s
+  key: 67. install command - type installutil.exe /i \< source folder full path \>\bin\numiwebapp.dll
+    under framework v4.5 folder and press enter.
+  text: 67. Install Command - Type InstallUtil.exe /I \< source folder full path \>\bin\NumiWebApp.dll
+    under Framework v4.5 folder and press enter.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1de0eef3bf
+  label: 42. On the Database Information page, enter the fo
+  key: 42. on the database information page, enter the following info and click next.
+  text: 42. On the Database Information page, enter the following info and click Next.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-1f31a93aea
+  label: Using IIS Manager, add a new web site as shown in
+  key: 'using iis manager, add a new web site as shown in figure 32: add numi website.'
+  text: 'Using IIS Manager, add a new web site as shown in Figure 32: Add NUMI Website.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-219b9fef72
+  label: The role set-up in this section applies to the SQL
+  key: 'the role set-up in this section applies to the sql database server. use server manager to install
+    the file services with the role services shown in figure 1: sql server role services.'
+  text: 'The role set-up in this section applies to the SQL database server. Use Server Manager to install
+    the File Services with the role services shown in Figure 1: SQL Server Role Services.'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-2219a1a8e4
+  label: '> 1 Database Server'
+  key: '> 1 database server > > 2 application servers > > 2 web servers > > 1 data warehouse server 1
+    sql reporting server'
+  text: '> 1 Database Server
+
+    >
+
+    > 2 Application Servers
+
+    >
+
+    > 2 Web Servers
+
+    >
+
+    > 1 Data Warehouse Server 1 SQL Reporting Server'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-252c995f2d
+  label: 1.  The application database (typically called NUM
+  key: 1. the application database (typically called numi) is necessary for proper function of the application
+  text: 1.  The application database (typically called NUMI) is necessary for proper function of the application
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-2570ef6f84
+  label: 64GB RAM, Dual 2.20 GHz Intel Xeon®E5-2698 v4 – Da
+  key: 64gb ram, dual 2.20 ghz intel xeon®e5-2698 v4 – database server
+  text: 64GB RAM, Dual 2.20 GHz Intel Xeon®E5-2698 v4 – Database Server
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-261f97a517
+  label: 24. When the Internet Explorer – Security Warning
+  key: '24. when the internet explorer – security warning window displays, click the \<run\> button (shown
+    in figure 9: ms asp.net 2.0 internet explorer-security warning window).'
+  text: '24. When the Internet Explorer – Security Warning window displays, click the \<Run\> button (shown
+    in Figure 9: MS ASP.Net 2.0 Internet Explorer-Security Warning Window).'
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-2630a60f71
+  label: 41. On the Choose Components screen, keep the defa
+  key: 41. on the choose components screen, keep the default selection (i.e., all selected) and click
+    next.
+  text: 41. On the Choose Components screen, keep the default selection (i.e., all selected) and click
+    Next.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-269de01b48
+  label: 17. Run the Install_XX.sql if it was provided with
+  key: 17. run the install_xx.sql if it was provided with the build, where xx is the database version
+    for the numi build. this will apply changes to the database necessary for the version of numi that
+    is being installed
+  text: 17. Run the Install_XX.sql if it was provided with the build, where XX is the database version
+    for the NUMI build. This will apply changes to the database necessary for the version of NUMI that
+    is being installed
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-2852fd5ee0
+  label: This is should open the CERMe login page.
+  key: this is should open the cerme login page.
+  text: This is should open the CERMe login page.
+  evidence_docs: 3
+  doc_type: SG-SET
+- id: bp-34f84cb79b
+  label: This manual is written with the assumption that th
+  key: 'this manual is written with the assumption that the reader is familiar with the following:'
+  text: 'This manual is written with the assumption that the reader is familiar with the following:'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-5b6cc45d4e
+  label: '**Assumptions About the Reader**'
+  key: '**assumptions about the reader**'
+  text: '**Assumptions About the Reader**'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-6884958896
+  label: '**How to Use this Manual**'
+  key: '**how to use this manual**'
+  text: '**How to Use this Manual**'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-6ff7a87f3f
+  label: This manual uses several methods to highlight diff
+  key: 'this manual uses several methods to highlight different aspects of the material:'
+  text: 'This manual uses several methods to highlight different aspects of the material:'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-7d2c68219b
+  label: '- Descriptive text is presented in a proportional'
+  key: '- descriptive text is presented in a proportional font (as represented by this font).'
+  text: '- Descriptive text is presented in a proportional font (as represented by this font).'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-a2de89b822
+  label: '- Conventions for displaying TEST data in this doc'
+  key: '- conventions for displaying test data in this document are as follows:'
+  text: '- Conventions for displaying TEST data in this document are as follows:'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-a32af868c1
+  label: '**Reference Materials**'
+  key: '**reference materials**'
+  text: '**Reference Materials**'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-a33895b4a9
+  label: '- The first three digits (prefix) of any Social Se'
+  key: '- the first three digits (prefix) of any social security numbers (ssn) will begin with either
+    "000" or "666".'
+  text: '- The first three digits (prefix) of any Social Security Numbers (SSN) will begin with either
+    "000" or "666".'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-a767230522
+  label: '- M programming language'
+  key: '- m programming language'
+  text: '- M programming language'
+  evidence_docs: 3
+  doc_type: PDD
+- id: bp-acd6eec40a
+  label: '- Various symbols are used throughout the document'
+  key: '- various symbols are used throughout the documentation to alert the reader to special information.
+    the following table gives a description of each of these symbols:'
+  text: '- Various symbols are used throughout the documentation to alert the reader to special information.
+    The following table gives a description of each of these symbols:'
+  evidence_docs: 3
+  doc_type: PDD
